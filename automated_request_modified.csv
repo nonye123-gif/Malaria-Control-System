@@ -1,0 +1,2082 @@
+Patient ID,Date,Age,Gender,Genotype,Blood Group,Diagnosis,Drugs Administered
+56AC977C,"2025-
+01-11",38,Female,AS,AB-,Malaria,"Quinine, Fansidar, Artemether, Doxycycline"
+E8EC6F75,"2023-
+03-16",3,Male,SS,AB-,Malaria,"Lumefantrine, Artemether, Primaquine, Chlorproguanil"
+B1C2DC95,"2024-
+02-24",46,Female,SS,A+,Malaria,"Doxycycline, Artemether, Lumefantrine, Quinine"
+#NUM!,"2024-
+03-04",81,Male,SC,AB-,Malaria,"Mefloquine, Fansidar, Quinine, Lumefantrine"
+DFB2E527,"2022-
+09-22",86,Male,AC,B-,Malaria,"Lumefantrine, Artemether, Mefloquine, Quinine"
+A064B008,"2022-
+07-29",73,Female,AA,B+,Malaria,"Quinine, Mefloquine, Lumefantrine,
+Artemether"
+220E8A84,"2024-
+11-05",10,Female,AS,AB+,Malaria,"Artemether, Primaquine, Chlorproguanil, Lumefantrine"
+C9A89E8F,"2024-
+01-27",79,Male,AA,A-,Malaria,"Doxycycline, Fansidar, Lumefantrine, Quinine"
+BF17E47B,"2025-
+02-09",8,Male,AC,O-,Malaria,"Lumefantrine, Primaquine, Amodiaquine, Chlorproguanil"
+99975444,"2023-
+06-13",32,Female,SC,AB-,Malaria,"Fansidar, Doxycycline, Lumefantrine, Mefloquine"
+CFFAE9A5,"2022-
+05-22",72,Male,SC,O+,Malaria,"Mefloquine, Lumefantrine, Artemether, Quinine"
+76595F81,"2022-
+02-06",88,Female,AA,B+,Malaria,"Doxycycline, Lumefantrine, Fansidar, Artemether"
+39434343,"2025-
+03-02",22,Male,AC,B-,Malaria,"Artemether, Mefloquine, Fansidar, Lumefantrine"
+B2770A66,"2024-
+02-17",69,Female,AA,O-,Malaria,"Doxycycline, Fansidar, Lumefantrine, Artemether"
+5DA8ED94,"2022-
+05-09",46,Male,AC,O+,Malaria,"Doxycycline, Quinine, Artemether,"
+,,,,,,,Fansidar
+E79A30DE,"2024-
+04-23",9,Male,AS,O-,Malaria,"Lumefantrine, Chlorproguanil, Amodiaquine, Artemether"
+5457FDB1,"2025-
+06-01",7,Female,SC,O-,Malaria,"Lumefantrine, Chlorproguanil, Artemether, Amodiaquine"
+1B23DBE9,"2023-
+06-22",54,Female,SS,B+,Malaria,"Artemether, Fansidar, Doxycycline, Quinine"
+480B0C7E,"2024-
+05-11",39,Female,AA,O+,Malaria,"Artemether, Fansidar, Mefloquine, Doxycycline"
+862F0C74,"2024-
+11-29",27,Male,AA,A-,Malaria,"Artemether, Quinine, Fansidar, Lumefantrine"
+004F51BF,"2022-
+07-30",54,Female,AA,B+,Malaria,"Mefloquine, Artemether, Quinine, Doxycycline"
+6714C33C,"2023-
+11-19",78,Male,SC,B-,Malaria,"Artemether, Lumefantrine, Fansidar, Quinine"
+810C0BDC,"2025-
+04-03",37,Female,SC,A-,Malaria,"Artemether, Lumefantrine, Quinine, Fansidar"
+CE900A63,2022-,56,Female,SS,B-,Malaria,"Mefloquine, Artemether,"
+,18-Jul,,,,,,"Lumefantrine, Doxycycline"
+86B95922,"2022-
+08-19",74,Female,SC,O-,Malaria,"Quinine, Lumefantrine, Mefloquine, Doxycycline"
+9D796BC2,"2022-
+01-16",23,Male,AA,AB-,Malaria,"Lumefantrine, Artemether, Mefloquine, Quinine"
+CF1E000E,"2022-
+06-22",43,Female,AC,A-,Malaria,"Quinine, Fansidar, Mefloquine, Lumefantrine"
+0CB97B3B,"2024-
+11-12",15,Female,SS,AB-,Malaria,"Primaquine, Lumefantrine, Chlorproguanil, Amodiaquine"
+F77DF2E1,"2022-
+07-08",79,Male,AC,O+,Malaria,"Quinine, Artemether, Mefloquine, Lumefantrine"
+03F0467D,"2022-
+03-30",12,Male,AS,O-,Malaria,"Artemether, Primaquine, Amodiaquine, Lumefantrine"
+B64D1AAE,"2022-
+01-02",11,Female,AC,AB-,Malaria,"Lumefantrine, Chlorproguanil, Primaquine, Amodiaquine"
+6D1766BB,"2024-
+09-11",34,Male,AS,AB+,Malaria,"Quinine, Doxycycline, Artemether,
+Lumefantrine"
+68C9A80F,"2025-
+03-12",37,Female,AC,AB+,Malaria,"Lumefantrine, Fansidar, Doxycycline, Mefloquine"
+93BE8852,"2024-
+01-01",27,Female,SC,O+,Malaria,"Doxycycline, Lumefantrine, Quinine, Fansidar"
+4B344B6C,"2023-
+01-31",57,Male,AA,A+,Malaria,"Fansidar, Mefloquine, Lumefantrine, Artemether"
+B6502419,"2023-
+07-08",64,Female,AS,B-,Malaria,"Quinine, Artemether, Lumefantrine, Fansidar"
+594F043F,"2023-
+02-01",69,Male,SS,O+,Malaria,"Quinine, Lumefantrine, Artemether, Mefloquine"
+715F01A5,"2023-
+05-21",47,Male,AC,O+,Malaria,"Artemether, Doxycycline, Fansidar, Lumefantrine"
+54080D3B,"2023-
+10-12",18,Female,SC,B+,Malaria,"Lumefantrine, Quinine, Fansidar, Artemether"
+2565030A,"2023-
+10-24",7,Female,SS,B+,Malaria,"Amodiaquine, Chlorproguanil, Primaquine, Lumefantrine"
+8360CC51,"2022-
+05-21",50,Male,AA,O+,Malaria,"Quinine, Artemether, Doxycycline,"
+,,,,,,,Lumefantrine
+227F999B,"2024-
+10-26",75,Female,AS,B-,Malaria,"Fansidar, Doxycycline, Artemether, Lumefantrine"
+BF468C7A,"2025-
+01-19",73,Female,AS,O-,Malaria,"Fansidar, Lumefantrine, Quinine, Mefloquine"
+109CBA7F,"2024-
+01-03",55,Male,AC,O-,Malaria,"Quinine, Lumefantrine, Artemether, Doxycycline"
+DB4B3581,"2022-
+09-18",52,Male,AA,O-,Malaria,"Mefloquine, Fansidar, Quinine, Doxycycline"
+1273287E,"2022-
+03-03",31,Female,AC,B-,Malaria,"Fansidar, Mefloquine, Quinine, Doxycycline"
+5823F696,"2023-
+12-25",18,Male,SC,A-,Malaria,"Quinine, Doxycycline, Fansidar, Lumefantrine"
+B1AD705D,"2022-
+05-27",35,Male,SS,AB+,Malaria,"Fansidar, Mefloquine, Quinine, Artemether"
+BDB58D12,"2022-
+03-03",72,Male,AA,O+,Malaria,"Mefloquine, Doxycycline, Artemether, Fansidar"
+10861015,2024-,33,Female,AA,AB-,Malaria,"Lumefantrine, Mefloquine,"
+,15-Sep,,,,,,"Artemether, Doxycycline"
+F9DA94DB,"2024-
+01-24",55,Female,AS,A-,Malaria,"Fansidar, Artemether, Doxycycline, Mefloquine"
+4E476C9D,"2022-
+11-17",27,Female,SS,O+,Malaria,"Quinine, Artemether, Lumefantrine, Mefloquine"
+11D44A50,"2024-
+04-08",9,Male,AC,AB-,Malaria,"Primaquine, Chlorproguanil, Lumefantrine, Amodiaquine"
+DDC241B7,"2023-
+05-07",3,Female,AC,O+,Malaria,"Artemether, Chlorproguanil, Primaquine, Lumefantrine"
+1A46EFE7,"2022-
+08-05",6,Female,SS,O+,Malaria,"Chlorproguanil, Amodiaquine, Lumefantrine, Primaquine"
+419BCB70,"2024-
+09-06",10,Male,SC,B+,Malaria,"Amodiaquine, Primaquine, Chlorproguanil, Lumefantrine"
+16FF217A,"2024-
+08-09",11,Female,AA,AB+,Malaria,"Primaquine, Lumefantrine, Amodiaquine, Chlorproguanil"
+743EF163,"2024-
+04-16",67,Male,AS,B-,Malaria,"Doxycycline, Lumefantrine, Quinine,
+Fansidar"
+903E35B5,"2025-
+02-02",88,Female,AS,O+,Malaria,"Mefloquine, Artemether, Quinine, Fansidar"
+C57FE48D,"2024-
+06-13",15,Male,SS,AB+,Malaria,"Lumefantrine, Amodiaquine, Artemether, Primaquine"
+3B8D65A2,"2024-
+09-22",53,Male,AC,B-,Malaria,"Quinine, Lumefantrine, Artemether, Mefloquine"
+E4D4F8B3,"2024-
+07-23",15,Female,AS,A+,Malaria,"Artemether, Primaquine, Chlorproguanil, Lumefantrine"
+38948D57,"2022-
+01-22",47,Female,AC,A-,Malaria,"Lumefantrine, Artemether, Fansidar, Doxycycline"
+AF8A86C4,"2025-
+03-06",37,Female,AC,O-,Malaria,"Fansidar, Doxycycline, Mefloquine, Artemether"
+D88DCD71,"2023-
+01-04",58,Male,AC,B+,Malaria,"Quinine, Fansidar, Lumefantrine, Artemether"
+3FB1AA8A,"2022-
+04-15",67,Male,AA,B-,Malaria,"Artemether, Doxycycline, Lumefantrine, Fansidar"
+541A9610,"2022-
+07-02",39,Female,AA,AB+,Malaria,"Artemether, Lumefantrine, Mefloquine,"
+,,,,,,,Fansidar
+72F6947C,"2023-
+07-31",78,Female,SC,AB+,Malaria,"Fansidar, Quinine, Doxycycline, Artemether"
+D2F073E7,"2023-
+12-08",16,Male,SC,B+,Malaria,"Primaquine, Amodiaquine, Lumefantrine, Chlorproguanil"
+DC3739EC,"2022-
+07-15",6,Female,SS,AB+,Malaria,"Amodiaquine, Chlorproguanil, Artemether, Primaquine"
+1D10D069,"2022-
+04-21",84,Female,AA,B-,Malaria,"Artemether, Lumefantrine, Fansidar, Quinine"
+CED122E7,"2024-
+07-14",78,Female,AC,A-,Malaria,"Quinine, Lumefantrine, Fansidar, Mefloquine"
+34012724,"2024-
+06-30",66,Male,AS,AB-,Malaria,"Quinine, Fansidar, Mefloquine, Lumefantrine"
+96EDA1D4,"2023-
+05-25",17,Female,AC,A-,Malaria,"Amodiaquine, Primaquine, Chlorproguanil, Artemether"
+3076C733,"2025-
+03-20",59,Female,AS,A+,Malaria,"Artemether, Quinine, Fansidar, Lumefantrine"
+5F92ED37,2025-,75,Male,AC,B-,Malaria,"Quinine, Mefloquine,"
+,27-Jun,,,,,,"Lumefantrine, Artemether"
+D09FF5C2,"2024-
+05-08",77,Female,AC,B-,Malaria,"Artemether, Doxycycline, Lumefantrine, Fansidar"
+EAC9795A,"2024-
+09-04",58,Female,AA,B+,Malaria,"Artemether, Lumefantrine, Quinine, Fansidar"
+E4E02B52,"2024-
+02-19",15,Male,AS,AB-,Malaria,"Primaquine, Lumefantrine, Artemether, Chlorproguanil"
+CBDD7ACD,"2022-
+09-22",18,Female,AS,A-,Malaria,"Doxycycline, Lumefantrine, Mefloquine, Artemether"
+55007484,"2023-
+02-18",55,Female,AC,B+,Malaria,"Artemether, Mefloquine, Lumefantrine, Fansidar"
+AD2D0D61,"2023-
+12-22",22,Female,SS,AB-,Malaria,"Mefloquine, Lumefantrine, Artemether, Quinine"
+DB8E4FCA,"2024-
+10-05",4,Male,SC,AB+,Malaria,"Amodiaquine, Chlorproguanil, Artemether, Lumefantrine"
+2E7293EC,"2024-
+06-09",66,Female,AS,O-,Malaria,"Artemether, Doxycycline, Lumefantrine,
+Mefloquine"
+989C46CE,"2022-
+04-17",47,Male,AA,AB+,Malaria,"Lumefantrine, Mefloquine, Artemether, Quinine"
+E06250EC,"2022-
+12-25",20,Female,AS,B-,Malaria,"Doxycycline, Artemether, Mefloquine, Fansidar"
+4DACCA38,"2023-
+07-23",79,Male,AC,A+,Malaria,"Lumefantrine, Doxycycline, Quinine, Mefloquine"
+7704E99D,"2022-
+09-17",15,Female,SC,A-,Malaria,"Lumefantrine, Amodiaquine, Primaquine, Artemether"
+93A632EF,"2025-
+02-24",9,Male,SC,AB-,Malaria,"Chlorproguanil, Lumefantrine, Artemether, Amodiaquine"
+5F48EB8E,"2024-
+12-12",85,Female,AS,O+,Malaria,"Mefloquine, Quinine, Doxycycline, Fansidar"
+A066CA41,"2025-
+04-21",85,Male,SC,B+,Malaria,"Lumefantrine, Doxycycline, Mefloquine, Artemether"
+1B00B274,"2024-
+09-18",41,Male,AA,O-,Malaria,"Mefloquine, Artemether, Fansidar, Quinine"
+3AD876BB,"2024-
+03-18",28,Male,AA,AB+,Malaria,"Lumefantrine, Artemether, Doxycycline,"
+,,,,,,,Fansidar
+0AD81210,"2022-
+08-18",15,Female,SS,O+,Malaria,"Chlorproguanil, Artemether, Primaquine, Lumefantrine"
+C6986A1F,"2023-
+10-06",62,Male,AC,A+,Malaria,"Mefloquine, Lumefantrine, Fansidar, Doxycycline"
+A4892CDB,"2022-
+04-19",67,Female,AA,AB+,Malaria,"Lumefantrine, Quinine, Mefloquine, Doxycycline"
+65239EF8,"2023-
+11-19",60,Female,SS,A+,Malaria,"Quinine, Doxycycline, Lumefantrine, Fansidar"
+2D7F5BB2,"2023-
+10-24",75,Female,SC,B+,Malaria,"Doxycycline, Artemether, Mefloquine, Quinine"
+5159E87F,"2024-
+02-04",35,Female,SC,A+,Malaria,"Lumefantrine, Mefloquine, Quinine, Fansidar"
+A4BF6839,"2022-
+11-29",28,Female,AC,O+,Malaria,"Doxycycline, Mefloquine, Quinine, Lumefantrine"
+6B72B268,"2025-
+06-26",44,Male,AC,O-,Malaria,"Quinine, Mefloquine, Lumefantrine, Doxycycline"
+FE4EEB92,2022-,29,Female,AS,B-,Malaria,"Lumefantrine, Doxycycline,"
+,19-Jan,,,,,,"Artemether, Quinine"
+748D83C7,"2024-
+11-03",44,Female,AA,B+,Malaria,"Doxycycline, Lumefantrine, Mefloquine, Artemether"
+28C7E1BA,"2024-
+02-16",68,Female,AC,AB+,Malaria,"Mefloquine, Doxycycline, Fansidar, Artemether"
+9CCAADC5,"2024-
+04-25",81,Male,SC,O-,Malaria,"Doxycycline, Mefloquine, Artemether, Quinine"
+7B7413D8,"2023-
+02-08",61,Female,SC,A+,Malaria,"Fansidar, Artemether, Lumefantrine, Quinine"
+C0C05BD8,"2022-
+06-25",76,Female,AS,AB-,Malaria,"Quinine, Artemether, Fansidar, Lumefantrine"
+FC3B699D,"2024-
+09-27",86,Male,AC,B-,Malaria,"Quinine, Mefloquine, Fansidar, Artemether"
+DA475A51,"2024-
+02-25",42,Male,AS,B+,Malaria,"Artemether, Doxycycline, Lumefantrine, Mefloquine"
+698BFDBF,"2022-
+03-06",37,Male,SC,AB+,Malaria,"Doxycycline, Mefloquine, Fansidar,
+Artemether"
+478C85A7,"2025-
+06-20",45,Female,AS,O-,Malaria,"Mefloquine, Artemether, Fansidar, Lumefantrine"
+615DBB61,"2022-
+08-04",15,Male,AS,A-,Malaria,"Lumefantrine, Artemether, Amodiaquine, Chlorproguanil"
+35D6601F,"2023-
+05-29",7,Female,SS,B-,Malaria,"Amodiaquine, Artemether, Primaquine, Lumefantrine"
+762533A6,"2022-
+10-31",7,Male,AC,A+,Malaria,"Chlorproguanil, Lumefantrine, Artemether, Primaquine"
+EFFC3E7B,"2022-
+03-02",72,Female,AA,O-,Malaria,"Fansidar, Mefloquine, Artemether, Lumefantrine"
+8FCD3383,"2022-
+09-10",37,Male,AS,O-,Malaria,"Quinine, Mefloquine, Fansidar, Lumefantrine"
+090A5C17,"2023-
+10-26",61,Male,SS,O+,Malaria,"Lumefantrine, Fansidar, Mefloquine, Artemether"
+8FD9CDDA,"2023-
+12-11",70,Male,AC,AB-,Malaria,"Fansidar, Mefloquine, Quinine, Doxycycline"
+8D3C548A,"2025-
+03-07",72,Male,SC,B+,Malaria,"Lumefantrine, Doxycycline, Mefloquine,"
+,,,,,,,Quinine
+AEFF32D5,"2024-
+02-12",40,Female,AA,A-,Malaria,"Mefloquine, Fansidar, Lumefantrine, Quinine"
+1D14289E,"2024-
+08-09",57,Female,AS,O-,Malaria,"Doxycycline, Lumefantrine, Quinine, Artemether"
+B6FFD169,"2025-
+03-26",18,Male,SS,O-,Malaria,"Artemether, Fansidar, Mefloquine, Lumefantrine"
+AE987C2B,"2024-
+08-24",22,Male,AC,A-,Malaria,"Artemether, Lumefantrine, Mefloquine, Doxycycline"
+21B6648F,"2022-
+04-09",71,Female,SS,AB+,Malaria,"Artemether, Mefloquine, Doxycycline, Quinine"
+B2963297,"2022-
+03-15",88,Male,SS,B+,Malaria,"Fansidar, Artemether, Lumefantrine, Quinine"
+7226CC90,"2023-
+05-18",50,Female,SS,O+,Malaria,"Mefloquine, Artemether, Fansidar, Quinine"
+58327650,"2025-
+02-28",28,Female,AA,B-,Malaria,"Artemether, Fansidar, Mefloquine, Quinine"
+CFE4729E,2025-,31,Male,AC,O-,Malaria,"Artemether, Doxycycline,"
+,14-Jan,,,,,,"Quinine, Mefloquine"
+F74A4E8D,"2024-
+07-20",27,Female,AC,A+,Malaria,"Mefloquine, Doxycycline, Quinine, Lumefantrine"
+78C61164,"2023-
+01-18",12,Male,AS,B+,Malaria,"Primaquine, Chlorproguanil, Lumefantrine, Artemether"
+B5B4C9B5,"2025-
+01-23",30,Female,SS,O+,Malaria,"Quinine, Lumefantrine, Doxycycline, Mefloquine"
+58350574,"2022-
+11-29",33,Female,SS,AB-,Malaria,"Quinine, Fansidar, Lumefantrine, Mefloquine"
+E528E721,"2024-
+12-23",31,Female,SC,A-,Malaria,"Artemether, Quinine, Doxycycline, Mefloquine"
+E502503F,"2024-
+11-16",25,Female,AC,O-,Malaria,"Fansidar, Lumefantrine, Artemether, Mefloquine"
+34BC2501,"2023-
+03-28",18,Female,SS,A-,Malaria,"Doxycycline, Mefloquine, Quinine, Artemether"
+B82448C2,"2022-
+09-15",65,Female,SC,B-,Malaria,"Mefloquine, Quinine, Lumefantrine,
+Doxycycline"
+F44A3FEF,"2024-
+09-28",63,Male,AC,O-,Malaria,"Lumefantrine, Doxycycline, Quinine, Fansidar"
+20E8FE24,"2022-
+05-18",48,Male,AC,AB+,Malaria,"Lumefantrine, Artemether, Quinine, Fansidar"
+C7D9A038,"2023-
+12-21",33,Male,SS,AB+,Malaria,"Artemether, Quinine, Mefloquine, Lumefantrine"
+5BFD3873,"2024-
+01-05",3,Male,SS,B-,Malaria,"Artemether, Lumefantrine, Amodiaquine, Primaquine"
+FD378162,"2023-
+09-14",72,Male,SC,O+,Malaria,"Doxycycline, Quinine, Lumefantrine, Artemether"
+3F32E98A,"2024-
+04-20",30,Male,AA,B-,Malaria,"Quinine, Artemether, Lumefantrine, Doxycycline"
+52907320,"2024-
+06-01",70,Female,SS,B-,Malaria,"Mefloquine, Lumefantrine, Fansidar, Doxycycline"
+51ED0A67,"2025-
+03-29",60,Female,AC,AB+,Malaria,"Artemether, Doxycycline, Fansidar, Lumefantrine"
+D7912529,"2022-
+06-04",42,Male,SS,O+,Malaria,"Artemether, Quinine, Lumefantrine,"
+,,,,,,,Doxycycline
+9AEB9082,"2024-
+03-03",73,Male,AA,B+,Malaria,"Artemether, Fansidar, Lumefantrine, Doxycycline"
+855063FD,"2023-
+03-08",39,Male,SC,B-,Malaria,"Quinine, Lumefantrine, Fansidar, Doxycycline"
+A38A2AEE,"2023-
+07-04",84,Male,AS,AB-,Malaria,"Doxycycline, Quinine, Artemether, Lumefantrine"
+30061CA1,"2022-
+09-19",7,Female,SS,B-,Malaria,"Chlorproguanil, Amodiaquine, Primaquine, Lumefantrine"
+BAC7D170,"2024-
+07-07",28,Male,SS,B+,Malaria,"Doxycycline, Fansidar, Lumefantrine, Artemether"
+164A5EBF,"2023-
+05-18",89,Female,AC,B-,Malaria,"Artemether, Quinine, Mefloquine, Lumefantrine"
+46D181BC,"2024-
+02-16",72,Male,AC,A+,Malaria,"Fansidar, Mefloquine, Doxycycline, Quinine"
+5C74FC31,"2022-
+05-24",38,Male,AA,B+,Malaria,"Artemether, Lumefantrine, Fansidar, Mefloquine"
+FBD8D557,2022-,70,Male,AS,O+,Malaria,"Mefloquine, Doxycycline,"
+,14-Jun,,,,,,"Fansidar, Artemether"
+F69843D6,"2022-
+07-25",24,Female,AS,B+,Malaria,"Artemether, Fansidar, Lumefantrine, Quinine"
+A907798E,"2023-
+05-15",74,Female,SS,B+,Malaria,"Artemether, Fansidar, Doxycycline, Lumefantrine"
+A9A4FEFB,"2025-
+06-19",81,Male,AA,A+,Malaria,"Mefloquine, Lumefantrine, Quinine, Artemether"
+54DEB654,"2023-
+11-07",11,Male,AC,A-,Malaria,"Artemether, Amodiaquine, Lumefantrine, Primaquine"
+1B6FE07A,"2024-
+12-28",73,Male,SC,B-,Malaria,"Fansidar, Doxycycline, Mefloquine, Artemether"
+0E2E414A,"2022-
+01-12",83,Female,SC,O-,Malaria,"Doxycycline, Mefloquine, Fansidar, Quinine"
+3B3A2371,"2025-
+01-14",48,Female,SS,A-,Malaria,"Artemether, Doxycycline, Quinine, Fansidar"
+8583B19E,"2022-
+09-24",5,Female,AC,B-,Malaria,"Amodiaquine, Artemether, Chlorproguanil,
+Lumefantrine"
+F48E02D3,"2024-
+01-09",12,Male,AC,B-,Malaria,"Primaquine, Amodiaquine, Lumefantrine, Chlorproguanil"
+879F5AEB,"2025-
+01-01",31,Female,AC,B+,Malaria,"Artemether, Doxycycline, Mefloquine, Lumefantrine"
+DF3C4048,"2022-
+10-01",26,Female,SS,B+,Malaria,"Quinine, Mefloquine, Fansidar, Doxycycline"
+95A4F2BC,"2024-
+10-08",87,Male,AC,O-,Malaria,"Mefloquine, Artemether, Fansidar, Doxycycline"
+CC40D74C,"2023-
+03-12",86,Male,SS,A+,Malaria,"Artemether, Mefloquine, Fansidar, Quinine"
+E6249A56,"2023-
+11-01",68,Female,SC,B+,Malaria,"Doxycycline, Lumefantrine, Fansidar, Quinine"
+58E30CB5,"2024-
+06-15",29,Female,SC,O+,Malaria,"Lumefantrine, Artemether, Mefloquine, Fansidar"
+8C0E9434,"2024-
+08-09",89,Female,SS,AB-,Malaria,"Fansidar, Lumefantrine, Artemether, Doxycycline"
+9F78F6A2,"2025-
+06-07",86,Male,AC,A-,Malaria,"Doxycycline, Artemether, Quinine,"
+,,,,,,,Mefloquine
+1655BB87,"2022-
+05-03",25,Male,SC,B+,Malaria,"Quinine, Mefloquine, Doxycycline, Artemether"
+3E3B506E,"2025-
+04-09",73,Female,AA,AB-,Malaria,"Doxycycline, Quinine, Fansidar, Mefloquine"
+2746D859,"2023-
+01-12",83,Male,AS,O+,Malaria,"Lumefantrine, Doxycycline, Mefloquine, Fansidar"
+8CA9AA2F,"2022-
+04-21",55,Male,AA,O-,Malaria,"Artemether, Doxycycline, Quinine, Lumefantrine"
+7AAF2A91,"2022-
+07-17",30,Female,AS,B+,Malaria,"Doxycycline, Quinine, Artemether, Lumefantrine"
+8580CCE8,"2022-
+06-25",27,Male,SS,O+,Malaria,"Quinine, Mefloquine, Doxycycline, Fansidar"
+CA40317C,"2024-
+06-04",8,Female,AA,A+,Malaria,"Chlorproguanil, Lumefantrine, Amodiaquine, Artemether"
+27D66159,"2022-
+11-08",57,Female,AA,A-,Malaria,"Artemether, Mefloquine, Quinine, Lumefantrine"
+C6E3130D,2023-,3,Female,SC,B+,Malaria,"Amodiaquine, Primaquine,"
+,3-Oct,,,,,,"Artemether, Chlorproguanil"
+4052A65A,"2022-
+08-28",63,Male,AC,A-,Malaria,"Artemether, Mefloquine, Doxycycline, Fansidar"
+FDAAADEC,"2025-
+06-24",55,Female,AA,A+,Malaria,"Artemether, Mefloquine, Quinine, Fansidar"
+285EAEB8,"2022-
+02-11",79,Male,SC,AB+,Malaria,"Fansidar, Quinine, Lumefantrine, Doxycycline"
+18B892CE,"2025-
+01-20",44,Female,AS,A+,Malaria,"Fansidar, Artemether, Mefloquine, Lumefantrine"
+6C858954,"2022-
+06-30",81,Female,SC,O+,Malaria,"Lumefantrine, Fansidar, Mefloquine, Artemether"
+774B9B26,"2024-
+10-25",84,Male,SS,O+,Malaria,"Mefloquine, Artemether, Fansidar, Doxycycline"
+663E5277,"2024-
+01-06",75,Female,AC,A-,Malaria,"Quinine, Artemether, Mefloquine, Doxycycline"
+588C862B,"2023-
+12-27",21,Female,SS,B+,Malaria,"Fansidar, Lumefantrine, Mefloquine,
+Doxycycline"
+BBB6F84A,"2022-
+02-14",43,Male,SC,AB+,Malaria,"Doxycycline, Fansidar, Lumefantrine, Mefloquine"
+1148184C,"2022-
+04-26",13,Male,AA,A+,Malaria,"Artemether, Primaquine, Chlorproguanil, Amodiaquine"
+E071AADF,"2023-
+11-30",61,Female,SC,B+,Malaria,"Quinine, Lumefantrine, Mefloquine, Fansidar"
+CF0CF149,"2022-
+01-08",21,Female,SS,AB-,Malaria,"Doxycycline, Mefloquine, Lumefantrine, Quinine"
+839898C8,"2025-
+06-15",32,Male,AA,B+,Malaria,"Mefloquine, Quinine, Doxycycline, Fansidar"
+3D82596B,"2023-
+03-28",25,Female,SC,A-,Malaria,"Mefloquine, Quinine, Fansidar, Lumefantrine"
+3E9F5CA2,"2024-
+07-11",11,Male,SC,O-,Malaria,"Artemether, Primaquine, Amodiaquine, Chlorproguanil"
+9B21DB86,"2023-
+02-26",28,Female,SS,B+,Malaria,"Doxycycline, Artemether, Quinine, Mefloquine"
+99A8B671,"2024-
+04-04",40,Female,AC,AB-,Malaria,"Fansidar, Lumefantrine, Artemether,"
+,,,,,,,Mefloquine
+03A99413,"2022-
+01-20",25,Male,AA,A+,Malaria,"Artemether, Quinine, Fansidar, Mefloquine"
+E67B0739,"2022-
+06-14",50,Male,SC,AB-,Malaria,"Mefloquine, Doxycycline, Artemether, Fansidar"
+65446DA4,"2023-
+03-26",46,Male,AA,AB-,Malaria,"Quinine, Fansidar, Artemether, Doxycycline"
+51D5A810,"2023-
+10-05",69,Female,SS,A-,Malaria,"Mefloquine, Doxycycline, Lumefantrine, Fansidar"
+957E98FF,"2024-
+06-12",78,Male,SS,A+,Malaria,"Mefloquine, Lumefantrine, Quinine, Fansidar"
+E43382B8,"2025-
+04-13",55,Male,SC,B+,Malaria,"Quinine, Mefloquine, Doxycycline, Artemether"
+746F7FE8,"2022-
+01-23",3,Female,AA,O-,Malaria,"Primaquine, Amodiaquine, Lumefantrine, Artemether"
+5273AB2F,"2023-
+10-17",37,Male,SC,AB-,Malaria,"Lumefantrine, Artemether, Fansidar, Quinine"
+9C26A477,2022-,68,Male,AA,B-,Malaria,"Quinine, Doxycycline,"
+,30-Jul,,,,,,"Artemether, Fansidar"
+B05D1529,"2023-
+09-18",9,Female,SC,B+,Malaria,"Artemether, Chlorproguanil, Lumefantrine, Primaquine"
+6675CAF2,"2022-
+10-31",21,Female,AS,O+,Malaria,"Mefloquine, Doxycycline, Artemether, Lumefantrine"
+4311A520,"2025-
+06-14",31,Female,AA,O+,Malaria,"Lumefantrine, Mefloquine, Fansidar, Doxycycline"
+3D5CFF45,"2022-
+04-29",47,Female,SS,O+,Malaria,"Doxycycline, Lumefantrine, Quinine, Artemether"
+7FD14C58,"2024-
+08-02",41,Male,AC,A+,Malaria,"Mefloquine, Fansidar, Quinine, Doxycycline"
+F5C614B7,"2024-
+01-16",52,Female,SS,B+,Malaria,"Doxycycline, Artemether, Mefloquine, Lumefantrine"
+46C22EA1,"2022-
+11-10",80,Female,AA,AB-,Malaria,"Quinine, Mefloquine, Fansidar, Artemether"
+53E47644,"2025-
+02-25",29,Male,AC,B+,Malaria,"Mefloquine, Artemether, Fansidar,
+Doxycycline"
+5664EF8C,"2022-
+01-15",4,Male,AA,B-,Malaria,"Lumefantrine, Amodiaquine, Chlorproguanil, Artemether"
+D53A41BD,"2024-
+05-10",57,Female,SS,AB+,Malaria,"Mefloquine, Artemether, Doxycycline, Quinine"
+BAAD1FFE,"2023-
+05-01",4,Female,AS,A-,Malaria,"Amodiaquine, Lumefantrine, Primaquine, Chlorproguanil"
+CD6D2E48,"2024-
+02-10",87,Female,SC,O+,Malaria,"Mefloquine, Lumefantrine, Doxycycline, Quinine"
+F941AE98,"2023-
+01-30",53,Female,AA,AB-,Malaria,"Artemether, Mefloquine, Lumefantrine, Fansidar"
+E07DD6EF,"2023-
+06-20",8,Male,SC,B+,Malaria,"Primaquine, Lumefantrine, Artemether, Amodiaquine"
+A3F50265,"2023-
+11-14",79,Male,AC,A+,Malaria,"Quinine, Doxycycline, Mefloquine, Artemether"
+2350A377,"2025-
+02-16",16,Male,AC,O+,Malaria,"Amodiaquine, Lumefantrine, Primaquine, Chlorproguanil"
+2989B5DC,"2024-
+12-24",59,Female,SC,AB-,Malaria,"Mefloquine, Lumefantrine, Artemether,"
+,,,,,,,Doxycycline
+F777C07A,"2023-
+01-09",37,Male,AA,A-,Malaria,"Mefloquine, Lumefantrine, Fansidar, Quinine"
+06629580,"2024-
+11-12",23,Male,AS,A+,Malaria,"Fansidar, Artemether, Mefloquine, Quinine"
+784D78AC,"2022-
+06-06",57,Male,AC,AB-,Malaria,"Fansidar, Doxycycline, Quinine, Artemether"
+06C3B3F9,"2024-
+11-09",68,Female,AS,O-,Malaria,"Lumefantrine, Mefloquine, Quinine, Fansidar"
+90502555,"2025-
+05-13",66,Male,AA,AB-,Malaria,"Quinine, Lumefantrine, Mefloquine, Doxycycline"
+2EC0E4B6,"2023-
+11-08",56,Female,AS,O+,Malaria,"Doxycycline, Mefloquine, Quinine, Lumefantrine"
+BA1FF5D8,"2024-
+11-01",75,Male,AS,AB-,Malaria,"Mefloquine, Doxycycline, Lumefantrine, Quinine"
+F2A168C1,"2023-
+01-10",55,Female,AA,AB+,Malaria,"Fansidar, Doxycycline, Mefloquine, Lumefantrine"
+478008B6,2023-,83,Male,AA,O-,Malaria,"Artemether, Doxycycline,"
+,7-Nov,,,,,,"Fansidar, Mefloquine"
+BA2DBFC2,"2023-
+05-12",40,Male,SC,A-,Malaria,"Lumefantrine, Doxycycline, Fansidar, Mefloquine"
+BA40DF56,"2022-
+08-11",11,Female,SS,B-,Malaria,"Artemether, Amodiaquine, Primaquine, Chlorproguanil"
+6F38AADE,"2022-
+03-08",50,Female,AS,B+,Malaria,"Mefloquine, Doxycycline, Fansidar, Quinine"
+08803883,"2023-
+07-19",27,Male,AS,B+,Malaria,"Lumefantrine, Artemether, Doxycycline, Quinine"
+F5EC2FCF,"2022-
+03-13",77,Male,SC,AB+,Malaria,"Fansidar, Artemether, Doxycycline, Lumefantrine"
+850D800D,"2022-
+01-24",65,Male,SS,B-,Malaria,"Doxycycline, Artemether, Mefloquine, Fansidar"
+2AF3B61F,"2023-
+05-11",58,Female,AC,AB-,Malaria,"Doxycycline, Lumefantrine, Mefloquine, Quinine"
+DFECCB62,"2023-
+07-03",4,Male,AC,A+,Malaria,"Lumefantrine, Artemether, Chlorproguanil,
+Primaquine"
+A83A9867,"2024-
+11-30",77,Male,AC,A+,Malaria,"Lumefantrine, Fansidar, Doxycycline, Quinine"
+F70B06EE,"2024-
+10-01",33,Female,SC,A+,Malaria,"Lumefantrine, Artemether, Quinine, Fansidar"
+377B7DDD,"2024-
+09-19",65,Male,SS,B-,Malaria,"Artemether, Doxycycline, Quinine, Lumefantrine"
+AEE96A60,"2022-
+08-06",4,Male,AS,AB-,Malaria,"Chlorproguanil, Amodiaquine, Lumefantrine, Artemether"
+65B5F851,"2024-
+10-04",59,Female,AS,A-,Malaria,"Artemether, Lumefantrine, Mefloquine, Quinine"
+7FB98042,"2025-
+01-23",19,Male,AA,B+,Malaria,"Lumefantrine, Quinine, Mefloquine, Fansidar"
+90B50588,"2024-
+02-06",66,Male,AS,B+,Malaria,"Doxycycline, Fansidar, Artemether, Lumefantrine"
+FC971C88,"2023-
+08-03",25,Female,SS,O+,Malaria,"Quinine, Doxycycline, Artemether, Lumefantrine"
+7D28D4D2,"2022-
+03-12",66,Male,AC,AB+,Malaria,"Doxycycline, Artemether, Quinine,"
+,,,,,,,Mefloquine
+BDF123BE,"2022-
+05-22",35,Male,AS,A-,Malaria,"Lumefantrine, Mefloquine, Quinine, Fansidar"
+9BC0B7CC,"2023-
+09-08",88,Female,AA,AB+,Malaria,"Lumefantrine, Quinine, Doxycycline, Mefloquine"
+1644D66B,"2022-
+03-23",61,Female,SC,AB-,Malaria,"Lumefantrine, Quinine, Doxycycline, Fansidar"
+2415C10D,"2022-
+02-18",47,Male,SS,B+,Malaria,"Artemether, Fansidar, Quinine, Mefloquine"
+798810F4,"2023-
+04-14",30,Male,SC,B-,Malaria,"Doxycycline, Lumefantrine, Fansidar, Artemether"
+7D915CDC,"2022-
+06-23",40,Male,AC,AB+,Malaria,"Quinine, Lumefantrine, Fansidar, Doxycycline"
+F6B6F3B4,"2024-
+11-07",18,Female,AC,A-,Malaria,"Doxycycline, Artemether, Quinine, Fansidar"
+A4C17C67,"2022-
+07-10",29,Male,AC,AB-,Malaria,"Doxycycline, Quinine, Artemether, Fansidar"
+31CE4DF0,2022-,85,Male,AA,AB-,Malaria,"Fansidar, Doxycycline,"
+,30-Nov,,,,,,"Lumefantrine, Artemether"
+F013FD86,"2024-
+08-23",63,Male,AA,AB-,Malaria,"Fansidar, Lumefantrine, Quinine, Mefloquine"
+79AA6BC3,"2024-
+04-03",16,Female,AS,B+,Malaria,"Artemether, Primaquine, Lumefantrine, Amodiaquine"
+ED40BF9C,"2023-
+05-12",25,Male,SS,AB-,Malaria,"Lumefantrine, Quinine, Artemether, Doxycycline"
+A2DB16F5,"2023-
+11-23",51,Male,AA,O+,Malaria,"Lumefantrine, Doxycycline, Mefloquine, Fansidar"
+CF990FD5,"2023-
+07-08",87,Male,SC,A+,Malaria,"Artemether, Fansidar, Lumefantrine, Doxycycline"
+532EEAA1,"2024-
+03-16",37,Female,SC,AB+,Malaria,"Fansidar, Lumefantrine, Mefloquine, Quinine"
+F7D37D89,"2024-
+12-22",8,Female,AS,A+,Malaria,"Chlorproguanil, Lumefantrine, Primaquine, Amodiaquine"
+AE41EA0E,"2024-
+11-27",18,Male,AS,A+,Malaria,"Artemether, Fansidar, Quinine,
+Mefloquine"
+33997FBC,"2022-
+10-18",50,Male,SC,AB-,Malaria,"Doxycycline, Lumefantrine, Mefloquine, Artemether"
+0C6FE7CB,"2024-
+08-28",6,Female,SS,AB+,Malaria,"Primaquine, Artemether, Amodiaquine, Chlorproguanil"
+8BE75E4A,"2022-
+08-17",69,Female,AS,O+,Malaria,"Quinine, Fansidar, Mefloquine, Lumefantrine"
+BA46459F,"2024-
+04-08",30,Male,SC,AB+,Malaria,"Fansidar, Artemether, Lumefantrine, Mefloquine"
+116C30AD,"2022-
+07-31",11,Male,AS,A-,Malaria,"Lumefantrine, Artemether, Amodiaquine, Chlorproguanil"
+A880AADD,"2024-
+02-18",71,Male,AC,B+,Malaria,"Artemether, Quinine, Mefloquine, Lumefantrine"
+58DA316F,"2024-
+12-04",50,Female,SS,O-,Malaria,"Mefloquine, Lumefantrine, Doxycycline, Artemether"
+935BAB31,"2025-
+03-04",12,Male,AC,AB-,Malaria,"Primaquine, Lumefantrine, Amodiaquine, Artemether"
+7A818B54,"2024-
+10-04",85,Male,SS,O+,Malaria,"Artemether, Lumefantrine, Mefloquine,"
+,,,,,,,Fansidar
+70ADFF3E,"2022-
+11-07",51,Female,AA,B-,Malaria,"Artemether, Mefloquine, Lumefantrine, Fansidar"
+95F932AA,"2025-
+06-22",31,Female,SS,B-,Malaria,"Fansidar, Doxycycline, Quinine, Mefloquine"
+7D6E44FA,"2024-
+03-07",66,Female,AS,O-,Malaria,"Doxycycline, Artemether, Lumefantrine, Fansidar"
+A31D43E9,"2022-
+12-23",42,Male,SC,A-,Malaria,"Quinine, Doxycycline, Artemether, Mefloquine"
+1DFA6809,"2023-
+03-28",31,Male,SC,A-,Malaria,"Doxycycline, Mefloquine, Quinine, Fansidar"
+06292150,"2024-
+04-03",86,Male,AC,AB+,Malaria,"Quinine, Artemether, Fansidar, Mefloquine"
+974DDD4D,"2024-
+12-26",61,Male,SC,O-,Malaria,"Fansidar, Doxycycline, Mefloquine, Quinine"
+C131BF44,"2022-
+12-11",50,Male,AS,A-,Malaria,"Quinine, Doxycycline, Artemether, Mefloquine"
+43B13374,2023-,72,Female,SC,B+,Malaria,"Mefloquine, Lumefantrine,"
+,27-Mar,,,,,,"Artemether, Fansidar"
+E32DC82F,"2023-
+04-20",31,Female,SC,AB-,Malaria,"Quinine, Doxycycline, Fansidar, Artemether"
+3763565D,"2022-
+07-20",82,Female,AC,A-,Malaria,"Fansidar, Doxycycline, Mefloquine, Artemether"
+775AA5BC,"2023-
+10-31",37,Female,AA,O-,Malaria,"Quinine, Artemether, Doxycycline, Fansidar"
+E7A907C0,"2022-
+12-02",87,Female,AA,A-,Malaria,"Lumefantrine, Artemether, Mefloquine, Fansidar"
+D136377C,"2024-
+02-27",68,Male,AA,AB+,Malaria,"Quinine, Doxycycline, Mefloquine, Fansidar"
+D7431691,"2022-
+01-15",10,Male,AS,O-,Malaria,"Chlorproguanil, Primaquine, Artemether, Lumefantrine"
+24EC199E,"2022-
+02-23",48,Female,AC,O-,Malaria,"Lumefantrine, Doxycycline, Mefloquine, Fansidar"
+9C261BE6,"2024-
+09-19",38,Male,AS,AB-,Malaria,"Doxycycline, Mefloquine, Lumefantrine,
+Fansidar"
+13A71C4C,"2025-
+02-24",54,Female,AC,O-,Malaria,"Mefloquine, Doxycycline, Fansidar, Lumefantrine"
+A6B365ED,"2022-
+02-28",59,Male,AC,B-,Malaria,"Fansidar, Quinine, Artemether, Doxycycline"
+7F6430F5,"2024-
+10-08",16,Male,AC,O+,Malaria,"Artemether, Lumefantrine, Primaquine, Amodiaquine"
+E4BF4DB5,"2023-
+01-01",38,Male,AS,AB-,Malaria,"Lumefantrine, Mefloquine, Quinine, Artemether"
+A90D191C,"2022-
+10-29",32,Female,SC,AB-,Malaria,"Artemether, Doxycycline, Quinine, Fansidar"
+477DD894,"2022-
+04-02",52,Male,SS,AB-,Malaria,"Mefloquine, Quinine, Doxycycline, Artemether"
+9EF702E9,"2025-
+03-16",58,Female,AS,B+,Malaria,"Quinine, Doxycycline, Artemether, Lumefantrine"
+34A99272,"2022-
+11-04",11,Female,AS,O-,Malaria,"Primaquine, Artemether, Chlorproguanil, Amodiaquine"
+2B37A43A,"2023-
+08-15",26,Male,AS,A+,Malaria,"Quinine, Artemether, Fansidar,"
+,,,,,,,Doxycycline
+D88EEBC9,"2023-
+11-11",66,Male,AS,B+,Malaria,"Lumefantrine, Fansidar, Mefloquine, Doxycycline"
+3AEE6224,"2022-
+09-08",22,Female,AC,A+,Malaria,"Artemether, Fansidar, Doxycycline, Lumefantrine"
+4FC21CD4,"2023-
+06-28",83,Female,SS,B+,Malaria,"Mefloquine, Quinine, Artemether, Lumefantrine"
+96FA0074,"2025-
+03-26",6,Male,AC,O-,Malaria,"Artemether, Amodiaquine, Chlorproguanil, Lumefantrine"
+95EFB790,"2025-
+02-17",40,Male,AA,O+,Malaria,"Lumefantrine, Mefloquine, Artemether, Fansidar"
+986D8494,"2025-
+05-07",35,Male,SC,B-,Malaria,"Artemether, Fansidar, Mefloquine, Quinine"
+BB6CAA98,"2023-
+12-16",28,Male,AS,A-,Malaria,"Artemether, Lumefantrine, Doxycycline, Quinine"
+B22840F5,"2025-
+05-21",89,Female,SC,AB+,Malaria,"Artemether, Mefloquine, Quinine, Lumefantrine"
+06940C0C,2024-,21,Male,AA,AB+,Malaria,"Mefloquine, Artemether,"
+,14-Dec,,,,,,"Fansidar, Lumefantrine"
+9750475F,"2022-
+05-01",54,Female,SS,O+,Malaria,"Doxycycline, Quinine, Mefloquine, Lumefantrine"
+A57F38C6,"2024-
+03-01",87,Female,SC,B+,Malaria,"Quinine, Mefloquine, Fansidar, Artemether"
+44C5A854,"2024-
+02-13",43,Female,AA,AB-,Malaria,"Lumefantrine, Artemether, Doxycycline, Mefloquine"
+900F5C17,"2025-
+06-24",54,Female,AC,A-,Malaria,"Mefloquine, Quinine, Lumefantrine, Artemether"
+029CC0A2,"2025-
+01-29",43,Male,AC,AB-,Malaria,"Doxycycline, Artemether, Mefloquine, Quinine"
+715B7C06,"2023-
+07-30",41,Female,AS,AB+,Malaria,"Lumefantrine, Quinine, Doxycycline, Mefloquine"
+E732989E,"2024-
+02-21",25,Male,AA,A-,Malaria,"Mefloquine, Fansidar, Artemether, Lumefantrine"
+361859EC,"2022-
+11-16",62,Male,AC,O-,Malaria,"Fansidar, Doxycycline, Quinine,
+Lumefantrine"
+52A8B143,"2022-
+08-21",53,Female,AS,AB-,Malaria,"Quinine, Artemether, Lumefantrine, Mefloquine"
+#NUM!,"2025-
+02-07",70,Female,AS,A+,Malaria,"Artemether, Quinine, Fansidar, Mefloquine"
+289BAB14,"2024-
+06-02",57,Female,SC,A+,Malaria,"Quinine, Mefloquine, Lumefantrine, Artemether"
+AA80F93D,"2024-
+03-19",71,Female,AA,A-,Malaria,"Quinine, Lumefantrine, Fansidar, Artemether"
+B8C5C575,"2022-
+05-26",4,Male,SC,O-,Malaria,"Amodiaquine, Primaquine, Artemether, Chlorproguanil"
+47879A56,"2024-
+10-14",10,Female,SC,A+,Malaria,"Chlorproguanil, Primaquine, Lumefantrine, Amodiaquine"
+69CE4A45,"2025-
+04-27",79,Male,SC,AB-,Malaria,"Mefloquine, Doxycycline, Quinine, Fansidar"
+87C74C9F,"2025-
+06-23",72,Female,SC,B-,Malaria,"Mefloquine, Artemether, Quinine, Lumefantrine"
+4E9CC67A,"2024-
+05-15",54,Female,AC,B+,Malaria,"Artemether, Doxycycline, Fansidar,"
+,,,,,,,Quinine
+7D06F379,"2024-
+08-17",34,Male,AC,A+,Malaria,"Artemether, Fansidar, Lumefantrine, Quinine"
+2DBDAD41,"2023-
+10-05",14,Male,AC,O+,Malaria,"Lumefantrine, Amodiaquine, Artemether, Chlorproguanil"
+D955B52C,"2025-
+03-24",75,Female,SS,A+,Malaria,"Fansidar, Mefloquine, Doxycycline, Artemether"
+B31C7230,"2022-
+06-20",19,Male,SS,O-,Malaria,"Artemether, Fansidar, Mefloquine, Quinine"
+518FB726,"2022-
+04-28",57,Female,AA,B-,Malaria,"Lumefantrine, Mefloquine, Fansidar, Doxycycline"
+E6C22E7E,"2022-
+08-28",67,Male,AS,A+,Malaria,"Lumefantrine, Fansidar, Artemether, Mefloquine"
+E11EEC69,"2022-
+02-13",22,Male,SS,O-,Malaria,"Fansidar, Artemether, Lumefantrine, Doxycycline"
+F918058E,"2024-
+11-03",88,Female,SC,A+,Malaria,"Fansidar, Artemether, Quinine, Doxycycline"
+1EC15171,2024-,50,Male,SS,A+,Malaria,"Mefloquine, Quinine,"
+,11-Aug,,,,,,"Fansidar, Doxycycline"
+67649A8F,"2023-
+08-04",75,Male,AS,A-,Malaria,"Fansidar, Lumefantrine, Artemether, Mefloquine"
+2624C714,"2025-
+04-06",84,Female,AS,O-,Malaria,"Quinine, Lumefantrine, Mefloquine, Doxycycline"
+378E0D02,"2022-
+06-08",31,Female,AA,B+,Malaria,"Fansidar, Artemether, Quinine, Doxycycline"
+39EA4C04,"2023-
+02-05",4,Male,AA,A+,Malaria,"Lumefantrine, Primaquine, Artemether, Amodiaquine"
+408D30CC,"2022-
+07-17",47,Male,AA,O+,Malaria,"Quinine, Fansidar, Artemether, Doxycycline"
+6BA154F6,"2022-
+08-06",11,Male,AA,B-,Malaria,"Primaquine, Artemether, Lumefantrine, Chlorproguanil"
+5F236DAC,"2025-
+04-06",46,Female,SC,B-,Malaria,"Lumefantrine, Artemether, Doxycycline, Mefloquine"
+E784D07F,"2024-
+04-22",3,Female,SS,AB-,Malaria,"Amodiaquine, Primaquine, Lumefantrine,
+Chlorproguanil"
+0AF0BB1C,"2024-
+11-20",22,Male,AC,O-,Malaria,"Lumefantrine, Mefloquine, Fansidar, Artemether"
+2F198E35,"2025-
+02-03",61,Female,SS,B-,Malaria,"Artemether, Lumefantrine, Mefloquine, Doxycycline"
+F30BE9BF,"2025-
+04-04",31,Female,AA,AB-,Malaria,"Doxycycline, Fansidar, Quinine, Lumefantrine"
+2618F808,"2022-
+08-14",32,Female,AS,B-,Malaria,"Lumefantrine, Fansidar, Doxycycline, Mefloquine"
+8B9E1C3A,"2022-
+06-17",67,Female,SC,AB+,Malaria,"Lumefantrine, Doxycycline, Quinine, Fansidar"
+D7E56443,"2025-
+05-16",67,Female,AA,B-,Malaria,"Mefloquine, Doxycycline, Lumefantrine, Quinine"
+70045F41,"2024-
+06-02",26,Female,SC,O+,Malaria,"Quinine, Fansidar, Lumefantrine, Doxycycline"
+36938C82,"2024-
+03-22",25,Male,AS,A-,Malaria,"Lumefantrine, Doxycycline, Quinine, Mefloquine"
+CA17BDBC,"2024-
+11-27",18,Female,SC,O-,Malaria,"Lumefantrine, Artemether, Fansidar,"
+,,,,,,,Quinine
+9F2219E2,"2025-
+03-11",5,Male,AC,AB+,Malaria,"Primaquine, Amodiaquine, Artemether, Chlorproguanil"
+22ECE9F1,"2022-
+01-01",22,Male,AA,O-,Malaria,"Artemether, Doxycycline, Lumefantrine, Fansidar"
+7F9DF37C,"2023-
+11-02",85,Female,AS,B-,Malaria,"Fansidar, Artemether, Doxycycline, Quinine"
+438201A6,"2022-
+06-28",33,Male,SS,A+,Malaria,"Fansidar, Mefloquine, Artemether, Doxycycline"
+3629BEC5,"2025-
+04-02",58,Female,AS,B-,Malaria,"Mefloquine, Doxycycline, Quinine, Artemether"
+889906A4,"2024-
+08-28",40,Female,AA,O+,Malaria,"Fansidar, Mefloquine, Quinine, Artemether"
+F6B400BC,"2024-
+11-15",46,Male,AA,B-,Malaria,"Fansidar, Doxycycline, Mefloquine, Artemether"
+744684EB,"2023-
+06-01",57,Female,SC,A-,Malaria,"Artemether, Fansidar, Quinine, Lumefantrine"
+37820656,2023-,63,Male,SS,AB+,Malaria,"Fansidar, Doxycycline,"
+,9-Feb,,,,,,"Lumefantrine, Artemether"
+AF8F06E5,"2025-
+06-03",45,Male,SC,B-,Malaria,"Mefloquine, Lumefantrine, Quinine, Fansidar"
+499FD6ED,"2025-
+02-19",66,Male,AC,A-,Malaria,"Mefloquine, Quinine, Lumefantrine, Artemether"
+AB786855,"2024-
+12-16",47,Female,SS,A+,Malaria,"Doxycycline, Quinine, Artemether, Lumefantrine"
+6B883092,"2023-
+06-21",26,Female,AC,O+,Malaria,"Artemether, Quinine, Mefloquine, Lumefantrine"
+7B6595AA,"2023-
+02-19",45,Female,AS,A+,Malaria,"Lumefantrine, Artemether, Fansidar, Mefloquine"
+61E91D23,"2024-
+03-21",73,Male,AC,A+,Malaria,"Doxycycline, Lumefantrine, Artemether, Mefloquine"
+155B4973,"2025-
+05-01",50,Female,SS,AB-,Malaria,"Fansidar, Lumefantrine, Doxycycline, Artemether"
+426C3D1F,"2025-
+05-31",10,Female,AC,AB-,Malaria,"Lumefantrine, Amodiaquine, Chlorproguanil,
+Artemether"
+4FE484B7,"2023-
+06-07",77,Female,SS,B-,Malaria,"Quinine, Fansidar, Artemether, Mefloquine"
+DC2429F9,"2025-
+04-04",25,Male,AA,AB+,Malaria,"Mefloquine, Lumefantrine, Quinine, Fansidar"
+27A25E93,"2025-
+03-01",74,Female,AC,B+,Malaria,"Doxycycline, Fansidar, Lumefantrine, Mefloquine"
+A5246611,"2022-
+09-02",64,Male,SS,A-,Malaria,"Doxycycline, Quinine, Mefloquine, Lumefantrine"
+9DA6A4F9,"2023-
+04-28",29,Male,AS,B-,Malaria,"Quinine, Artemether, Doxycycline, Lumefantrine"
+7243F352,"2024-
+10-01",47,Female,SC,B-,Malaria,"Mefloquine, Artemether, Lumefantrine, Fansidar"
+ABA85304,"2024-
+04-25",4,Male,SC,B-,Malaria,"Primaquine, Lumefantrine, Chlorproguanil, Artemether"
+5327466E,"2024-
+12-05",28,Male,AC,B+,Malaria,"Artemether, Quinine, Fansidar, Lumefantrine"
+F457FBF4,"2022-
+02-14",51,Female,AS,A-,Malaria,"Lumefantrine, Fansidar, Artemether,"
+,,,,,,,Mefloquine
+EB4109B0,"2023-
+04-01",59,Male,SC,A-,Malaria,"Doxycycline, Lumefantrine, Quinine, Fansidar"
+B17D17F0,"2025-
+01-24",9,Female,AC,A-,Malaria,"Artemether, Primaquine, Amodiaquine, Chlorproguanil"
+8AA457AC,"2025-
+05-22",42,Male,SC,AB-,Malaria,"Lumefantrine, Quinine, Mefloquine, Artemether"
+90D27361,"2025-
+06-24",78,Female,AC,A+,Malaria,"Doxycycline, Mefloquine, Lumefantrine, Fansidar"
+CD564127,"2022-
+11-06",69,Male,SS,B+,Malaria,"Artemether, Fansidar, Quinine, Lumefantrine"
+D42836ED,"2023-
+07-31",45,Male,AA,B-,Malaria,"Lumefantrine, Quinine, Fansidar, Doxycycline"
+885D12C3,"2023-
+04-13",13,Female,SC,A+,Malaria,"Lumefantrine, Amodiaquine, Primaquine, Chlorproguanil"
+58A72C4E,"2023-
+01-17",25,Female,AA,B+,Malaria,"Fansidar, Artemether, Quinine, Mefloquine"
+05D31FEC,2024-,39,Female,AA,AB+,Malaria,"Quinine, Doxycycline,"
+,14-May,,,,,,"Artemether, Mefloquine"
+66F5172E,"2022-
+08-11",84,Female,SC,A-,Malaria,"Doxycycline, Fansidar, Artemether, Mefloquine"
+B056C6A1,"2024-
+03-05",38,Male,AA,B+,Malaria,"Artemether, Fansidar, Quinine, Doxycycline"
+2A313CA0,"2025-
+02-27",83,Male,AS,AB-,Malaria,"Quinine, Fansidar, Mefloquine, Lumefantrine"
+484A5C57,"2023-
+11-06",6,Male,AA,AB+,Malaria,"Primaquine, Amodiaquine, Lumefantrine, Chlorproguanil"
+4A766ED6,"2022-
+10-22",66,Male,AA,AB-,Malaria,"Artemether, Doxycycline, Quinine, Mefloquine"
+C461944F,"2024-
+02-15",57,Female,AS,O+,Malaria,"Artemether, Mefloquine, Fansidar, Quinine"
+1811AEDC,"2025-
+05-02",42,Male,AA,B-,Malaria,"Mefloquine, Doxycycline, Fansidar, Artemether"
+55C3C101,"2023-
+02-02",85,Male,AC,O+,Malaria,"Doxycycline, Quinine, Fansidar,
+Lumefantrine"
+0961B612,"2023-
+10-28",31,Female,AC,AB+,Malaria,"Artemether, Mefloquine, Lumefantrine, Quinine"
+5027FE44,"2022-
+12-06",39,Male,SC,B-,Malaria,"Quinine, Doxycycline, Artemether, Mefloquine"
+3213DAA6,"2024-
+07-12",19,Female,SC,B+,Malaria,"Lumefantrine, Artemether, Fansidar, Doxycycline"
+2069BA64,"2023-
+05-26",28,Female,SC,O+,Malaria,"Doxycycline, Artemether, Mefloquine, Lumefantrine"
+8E6200CB,"2025-
+02-22",57,Male,AS,A+,Malaria,"Lumefantrine, Quinine, Artemether, Fansidar"
+369DA32B,"2022-
+04-12",58,Male,SC,O+,Malaria,"Doxycycline, Mefloquine, Fansidar, Lumefantrine"
+A8369198,"2024-
+09-02",70,Male,AS,O+,Malaria,"Doxycycline, Artemether, Mefloquine, Fansidar"
+809D09A1,"2023-
+06-16",11,Male,AC,O-,Malaria,"Amodiaquine, Lumefantrine, Primaquine, Artemether"
+7013B048,"2022-
+02-03",89,Male,AS,A+,Malaria,"Fansidar, Mefloquine, Quinine,"
+,,,,,,,Doxycycline
+674BE700,"2023-
+05-17",46,Female,AC,AB+,Malaria,"Mefloquine, Quinine, Fansidar, Artemether"
+A85F64C0,"2024-
+12-11",84,Male,AC,O+,Malaria,"Lumefantrine, Artemether, Doxycycline, Fansidar"
+3F26AB43,"2022-
+01-25",47,Male,AA,A-,Malaria,"Doxycycline, Lumefantrine, Fansidar, Quinine"
+27136009,"2025-
+02-15",71,Male,SS,B+,Malaria,"Artemether, Fansidar, Mefloquine, Lumefantrine"
+2C0151C4,"2023-
+05-30",3,Male,AS,AB+,Malaria,"Chlorproguanil, Lumefantrine, Artemether, Amodiaquine"
+0AB6F0A8,"2022-
+07-25",26,Male,SC,B-,Malaria,"Mefloquine, Doxycycline, Lumefantrine, Quinine"
+59B58B6A,"2022-
+04-05",16,Male,SC,O+,Malaria,"Artemether, Amodiaquine, Lumefantrine, Primaquine"
+34D9CF4C,"2024-
+07-11",24,Male,SC,AB-,Malaria,"Quinine, Doxycycline, Mefloquine, Fansidar"
+8B2B0F4B,2022-,38,Male,SC,O+,Malaria,"Quinine, Fansidar,"
+,21-Jul,,,,,,"Lumefantrine, Mefloquine"
+C231E046,"2022-
+12-25",50,Female,AS,AB-,Malaria,"Lumefantrine, Doxycycline, Fansidar, Mefloquine"
+FA00CEAE,"2022-
+12-06",12,Female,SS,AB+,Malaria,"Chlorproguanil, Amodiaquine, Artemether, Lumefantrine"
+F895BAEC,"2022-
+08-06",38,Male,SS,O+,Malaria,"Doxycycline, Artemether, Fansidar, Mefloquine"
+53250676,"2022-
+07-27",63,Male,SS,AB+,Malaria,"Artemether, Mefloquine, Quinine, Lumefantrine"
+07FB5FE2,"2023-
+05-30",41,Female,SC,A+,Malaria,"Mefloquine, Quinine, Lumefantrine, Doxycycline"
+41696A1A,"2024-
+01-21",45,Female,SC,AB+,Malaria,"Mefloquine, Lumefantrine, Quinine, Artemether"
+603835AA,"2024-
+07-08",12,Male,AA,B-,Malaria,"Artemether, Amodiaquine, Lumefantrine, Chlorproguanil"
+D1BCE1E7,"2025-
+01-28",70,Female,AS,AB-,Malaria,"Artemether, Lumefantrine, Fansidar,
+Doxycycline"
+0528C7EE,"2024-
+12-14",82,Male,SS,O-,Malaria,"Mefloquine, Doxycycline, Artemether, Fansidar"
+B22C146E,"2023-
+09-03",46,Female,AS,B-,Malaria,"Doxycycline, Lumefantrine, Quinine, Fansidar"
+D0CAA42F,"2023-
+05-27",58,Male,AA,O-,Malaria,"Quinine, Lumefantrine, Artemether, Mefloquine"
+A0EFC555,"2024-
+04-05",34,Male,AC,AB-,Malaria,"Lumefantrine, Quinine, Mefloquine, Fansidar"
+D452D218,"2024-
+09-20",26,Female,AC,O-,Malaria,"Quinine, Lumefantrine, Doxycycline, Fansidar"
+408DA151,"2022-
+03-21",59,Female,AA,O-,Malaria,"Lumefantrine, Mefloquine, Artemether, Doxycycline"
+3895EEDF,"2023-
+07-28",73,Male,SC,B+,Malaria,"Doxycycline, Quinine, Lumefantrine, Mefloquine"
+835F9F6B,"2024-
+11-07",81,Female,SC,O+,Malaria,"Quinine, Lumefantrine, Doxycycline, Mefloquine"
+2098814E,"2023-
+04-08",45,Male,SC,AB+,Malaria,"Fansidar, Doxycycline, Mefloquine,"
+,,,,,,,Lumefantrine
+9FA37F4A,"2022-
+02-10",65,Female,AA,O+,Malaria,"Mefloquine, Artemether, Quinine, Fansidar"
+B83CD072,"2023-
+04-05",22,Female,AC,O-,Malaria,"Mefloquine, Quinine, Doxycycline, Artemether"
+A503D195,"2024-
+08-21",43,Male,AC,A-,Malaria,"Mefloquine, Lumefantrine, Doxycycline, Fansidar"
+0775E6B4,"2024-
+08-06",29,Female,SS,B+,Malaria,"Mefloquine, Lumefantrine, Artemether, Doxycycline"
+BAE3CEB4,"2022-
+03-23",67,Male,SS,A-,Malaria,"Doxycycline, Quinine, Mefloquine, Lumefantrine"
+156C71ED,"2022-
+04-20",84,Female,AS,A+,Malaria,"Lumefantrine, Artemether, Fansidar, Mefloquine"
+A832E827,"2024-
+11-06",46,Male,SC,AB-,Malaria,"Quinine, Artemether, Lumefantrine, Mefloquine"
+3EAC90CA,"2024-
+09-23",86,Female,SS,A+,Malaria,"Mefloquine, Doxycycline, Quinine, Fansidar"
+8C507596,2024-,58,Female,SS,B-,Malaria,"Quinine, Artemether,"
+,31-Aug,,,,,,"Mefloquine, Lumefantrine"
+AEADFFCF,"2024-
+07-07",69,Male,AC,O+,Malaria,"Artemether, Lumefantrine, Fansidar, Doxycycline"
+7E3B40A7,"2025-
+01-03",39,Male,AA,A+,Malaria,"Doxycycline, Lumefantrine, Mefloquine, Artemether"
+0DC240BD,"2024-
+11-03",39,Male,AS,O+,Malaria,"Artemether, Mefloquine, Doxycycline, Lumefantrine"
+5C266623,"2023-
+08-23",37,Female,AC,AB+,Malaria,"Mefloquine, Quinine, Artemether, Fansidar"
+F235253A,"2023-
+01-18",4,Male,AS,B+,Malaria,"Amodiaquine, Artemether, Primaquine, Lumefantrine"
+DC259CBD,"2022-
+12-31",12,Female,SC,O+,Malaria,"Primaquine, Chlorproguanil, Lumefantrine, Amodiaquine"
+C20C0EA3,"2024-
+03-03",8,Female,AS,A+,Malaria,"Artemether, Amodiaquine, Primaquine, Lumefantrine"
+5CB995F7,"2025-
+04-19",22,Male,AA,O+,Malaria,"Doxycycline, Mefloquine, Lumefantrine,
+Quinine"
+26893D58,"2024-
+09-05",70,Male,AS,O+,Malaria,"Doxycycline, Mefloquine, Fansidar, Lumefantrine"
+B8A05A11,"2023-
+12-08",23,Female,AS,A-,Malaria,"Lumefantrine, Artemether, Quinine, Doxycycline"
+EF9A1F88,"2025-
+01-24",79,Female,SC,A+,Malaria,"Artemether, Doxycycline, Mefloquine, Fansidar"
+C33B4211,"2022-
+04-13",3,Male,SC,AB+,Malaria,"Primaquine, Chlorproguanil, Lumefantrine, Artemether"
+A61A1B3B,"2024-
+07-25",11,Male,AA,AB-,Malaria,"Artemether, Chlorproguanil, Primaquine, Lumefantrine"
+6D67149F,"2023-
+08-19",48,Male,AA,AB-,Malaria,"Quinine, Artemether, Doxycycline, Fansidar"
+96E948C2,"2023-
+08-21",9,Female,AS,B-,Malaria,"Primaquine, Artemether, Amodiaquine, Chlorproguanil"
+E419F7F9,"2023-
+08-28",89,Male,AA,A+,Malaria,"Mefloquine, Quinine, Lumefantrine, Fansidar"
+3BF2261C,"2022-
+12-08",84,Male,SS,O-,Malaria,"Mefloquine, Quinine, Doxycycline,"
+,,,,,,,Lumefantrine
+327B7F4A,"2022-
+04-27",78,Male,SC,AB+,Malaria,"Mefloquine, Doxycycline, Fansidar, Artemether"
+28C65B8C,"2022-
+11-08",70,Female,AC,AB+,Malaria,"Fansidar, Artemether, Quinine, Lumefantrine"
+941C9795,"2023-
+02-25",64,Female,AA,B+,Malaria,"Doxycycline, Quinine, Lumefantrine, Mefloquine"
+1FAD98AA,"2023-
+03-13",12,Female,AS,O+,Malaria,"Chlorproguanil, Primaquine, Lumefantrine, Artemether"
+82B5DE7C,"2024-
+05-09",25,Female,AC,AB-,Malaria,"Doxycycline, Quinine, Artemether, Mefloquine"
+B46D7A14,"2022-
+12-27",50,Male,AA,B-,Malaria,"Mefloquine, Artemether, Doxycycline, Quinine"
+AA618C24,"2024-
+11-07",62,Male,AS,O+,Malaria,"Fansidar, Mefloquine, Doxycycline, Artemether"
+8251CBDA,"2023-
+01-12",62,Male,SC,A+,Malaria,"Fansidar, Artemether, Quinine, Mefloquine"
+A71F54EC,2024-,46,Female,AS,B-,Malaria,"Fansidar, Doxycycline,"
+,31-Dec,,,,,,"Lumefantrine, Quinine"
+5E6055D1,"2023-
+12-06",15,Male,AC,A-,Malaria,"Lumefantrine, Primaquine, Artemether, Amodiaquine"
+78DD7C0A,"2025-
+03-16",50,Male,AS,A+,Malaria,"Lumefantrine, Fansidar, Doxycycline, Quinine"
+855DE7C7,"2024-
+09-05",86,Male,SC,A-,Malaria,"Mefloquine, Quinine, Fansidar, Doxycycline"
+2EB3341D,"2025-
+06-24",7,Male,AS,O-,Malaria,"Amodiaquine, Lumefantrine, Chlorproguanil, Primaquine"
+B98C5489,"2023-
+08-24",24,Female,AC,O+,Malaria,"Mefloquine, Doxycycline, Fansidar, Quinine"
+1C2C7E81,"2024-
+03-16",8,Female,AC,B+,Malaria,"Chlorproguanil, Primaquine, Artemether, Lumefantrine"
+80E3013A,"2023-
+05-24",77,Female,AS,AB-,Malaria,"Mefloquine, Doxycycline, Artemether, Fansidar"
+22566D3B,"2023-
+10-10",59,Female,AC,B-,Malaria,"Artemether, Mefloquine, Quinine,
+Fansidar"
+8E3CD046,"2023-
+05-18",9,Female,AC,A-,Malaria,"Lumefantrine, Primaquine, Amodiaquine, Artemether"
+2BEB7438,"2025-
+06-08",10,Female,SS,AB+,Malaria,"Primaquine, Amodiaquine, Lumefantrine, Artemether"
+78D3D18D,"2022-
+01-27",62,Male,SC,O+,Malaria,"Quinine, Doxycycline, Mefloquine, Lumefantrine"
+813DD0D7,"2022-
+05-22",72,Male,AA,O-,Malaria,"Lumefantrine, Mefloquine, Artemether, Quinine"
+CAD2AC76,"2024-
+09-12",60,Female,SS,AB+,Malaria,"Doxycycline, Quinine, Lumefantrine, Mefloquine"
+C24F3975,"2025-
+06-01",23,Male,AA,O-,Malaria,"Fansidar, Lumefantrine, Quinine, Mefloquine"
+78535DA5,"2025-
+05-19",50,Female,SS,A+,Malaria,"Lumefantrine, Fansidar, Mefloquine, Artemether"
+A691CD44,"2024-
+10-16",38,Female,SS,O-,Malaria,"Fansidar, Quinine, Artemether, Doxycycline"
+13B9BBCE,"2024-
+04-26",51,Male,SS,AB+,Malaria,"Fansidar, Lumefantrine, Doxycycline,"
+,,,,,,,Quinine
+03C029EF,"2024-
+10-25",59,Male,SC,A+,Malaria,"Lumefantrine, Mefloquine, Quinine, Artemether"
+711D39E6,"2022-
+10-03",62,Male,AS,B-,Malaria,"Lumefantrine, Fansidar, Artemether, Quinine"
+C05D0057,"2022-
+07-19",75,Female,AC,AB-,Malaria,"Fansidar, Lumefantrine, Doxycycline, Quinine"
+5FA7FE27,"2022-
+12-29",53,Female,AC,A+,Malaria,"Artemether, Quinine, Fansidar, Lumefantrine"
+9370E084,"2025-
+03-26",24,Female,AC,AB-,Malaria,"Fansidar, Doxycycline, Mefloquine, Quinine"
+D00EAD1B,"2025-
+02-20",72,Male,SC,AB-,Malaria,"Artemether, Fansidar, Lumefantrine, Doxycycline"
+952389F8,"2022-
+04-23",40,Female,AA,AB-,Malaria,"Lumefantrine, Fansidar, Quinine, Doxycycline"
+71E75A97,"2022-
+10-25",11,Male,SC,B-,Malaria,"Lumefantrine, Amodiaquine, Chlorproguanil, Primaquine"
+9B338F73,2024-,49,Female,AA,A+,Malaria,"Mefloquine, Artemether,"
+,21-Apr,,,,,,"Doxycycline, Lumefantrine"
+F1A7FEA9,"2024-
+08-30",13,Male,AA,AB-,Malaria,"Chlorproguanil, Amodiaquine, Artemether, Primaquine"
+4C142276,"2022-
+01-13",31,Male,AC,AB+,Malaria,"Quinine, Doxycycline, Artemether, Lumefantrine"
+CFFBF690,"2023-
+05-13",30,Female,AA,B+,Malaria,"Lumefantrine, Artemether, Doxycycline, Fansidar"
+14292B45,"2023-
+08-16",32,Female,SS,A-,Malaria,"Lumefantrine, Fansidar, Mefloquine, Quinine"
+5353BCF4,"2023-
+05-13",18,Male,AC,B-,Malaria,"Quinine, Artemether, Doxycycline, Mefloquine"
+3C75BE64,"2024-
+08-12",12,Female,AS,AB+,Malaria,"Chlorproguanil, Artemether, Primaquine, Amodiaquine"
+0F76813C,"2022-
+04-17",16,Female,AA,O-,Malaria,"Primaquine, Lumefantrine, Artemether, Chlorproguanil"
+0FCEDE8E,"2023-
+11-10",65,Female,SC,AB+,Malaria,"Mefloquine, Lumefantrine, Fansidar,
+Quinine"
+E65E33DC,"2022-
+07-22",44,Female,SS,B+,Malaria,"Artemether, Lumefantrine, Doxycycline, Fansidar"
+DFBE12B0,"2024-
+10-31",31,Female,SC,O-,Malaria,"Quinine, Mefloquine, Lumefantrine, Artemether"
+6D09E91B,"2024-
+09-21",88,Male,AA,O-,Malaria,"Doxycycline, Quinine, Artemether, Lumefantrine"
+A9000347,"2023-
+10-04",64,Female,SC,B-,Malaria,"Doxycycline, Artemether, Mefloquine, Quinine"
+822E6818,"2024-
+06-26",86,Female,AS,A+,Malaria,"Lumefantrine, Artemether, Mefloquine, Fansidar"
+55E6690B,"2025-
+06-05",20,Male,SC,B-,Malaria,"Artemether, Fansidar, Doxycycline, Lumefantrine"
+B64458EC,"2025-
+01-16",49,Male,SS,B-,Malaria,"Fansidar, Doxycycline, Quinine, Lumefantrine"
+537542EC,"2023-
+01-09",10,Male,AC,O-,Malaria,"Lumefantrine, Amodiaquine, Primaquine, Artemether"
+5D986678,"2024-
+02-18",47,Female,AS,O-,Malaria,"Artemether, Mefloquine, Doxycycline,"
+,,,,,,,Fansidar
+BF01518C,"2024-
+09-13",31,Male,SC,A+,Malaria,"Artemether, Doxycycline, Quinine, Lumefantrine"
+A23EB190,"2023-
+06-16",21,Female,SS,A+,Malaria,"Fansidar, Artemether, Doxycycline, Lumefantrine"
+27F23D56,"2025-
+03-24",12,Female,AA,B+,Malaria,"Primaquine, Artemether, Chlorproguanil, Lumefantrine"
+19430254,"2023-
+05-10",81,Male,AS,A+,Malaria,"Doxycycline, Fansidar, Lumefantrine, Quinine"
+49F333BA,"2024-
+07-15",39,Male,AC,AB-,Malaria,"Fansidar, Quinine, Artemether, Doxycycline"
+A9022F0D,"2024-
+05-03",43,Male,SS,B+,Malaria,"Fansidar, Artemether, Doxycycline, Quinine"
+AC1FCA0A,"2022-
+05-11",87,Male,SS,A-,Malaria,"Lumefantrine, Doxycycline, Artemether, Mefloquine"
+A62E40EC,"2023-
+10-22",69,Female,AS,AB+,Malaria,"Doxycycline, Quinine, Fansidar, Mefloquine"
+B481FDCA,2023-,54,Female,AA,AB+,Malaria,"Fansidar, Quinine,"
+,27-Jan,,,,,,"Doxycycline, Lumefantrine"
+24F2FE4D,"2024-
+06-23",13,Male,AC,B+,Malaria,"Primaquine, Amodiaquine, Artemether, Chlorproguanil"
+E72B1411,"2024-
+10-23",57,Female,AA,B+,Malaria,"Doxycycline, Quinine, Fansidar,
+Mefloquine"
+,21/2/22,41yrs,F,AS,,Severe Malaria,"IV Artesunate, Paracetamol, Amoxil"
+,21/2/22,25yrs,F,AS,,Malaria,"Lonart Tab, Amoxil"
+,21/2/22,15yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil, Paracetamol"
+,22/2/22,11mths,M,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,22/2/22,11yrs,M,AA,,Malaria,P-Alaxin Tab
+,22/2/22,13yrs,F,AA,,Malaria,"Coartem, Amoxil Syrup, Paracetamol"
+,22/2/22,5yrs,F,AA,,Malaria Fever,"Syrup Lonart, Amoxil Syrup, Paracetamol"
+,22/2/22,2yrs,F,AS,,Malaria Sepsis,"Coartem, Amoxil Paracetamol"
+,23/2/22,4yrs,M,AS,,Malaria,"Syrup Lonart, Amoxil Syrup, Paracetamol"
+,23/2/22,46yrs,F,AS,,Severe Malaria,"IV Artesunate, Paracetamol, Amoxil"
+,24/2/22,61yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,25/2/22,3mths,M,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,25/2/22,11mths,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,25/2/22,7mths,M,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,25/2/22,9yrs,F,SS,,Malaria,"Syrup P-Alaxim, Amoxil, Paracetamol"
+,26/2/22,5yrs,F,AA,,Malaria Fever,Syrup Lonart
+,26/2/22,6yrs,F,AA,,Malaria,"Syrup P-Alaxim, Paracetamol Amoxil"
+,26/2/22,64yrs,F,AS,,Sepsis Malaria Fever,"Artesunate, Paracetamol Amoxil"
+,26/2/22,31yrs,M,AS,,Malaria Fever,"Lonart Tab, Amoxil, Paracetamol"
+,27/2/22,38yrs,F,AA,,Malaria Fever,Artesunate Tab
+,27/2/22,17yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol Amoxil"
+,27/2/22,25yrs,M,AA,,Severe Malaria Fever,IV Artesunate Paracetamol Amoxil
+,28/2/22,4yrs,F,AA,,"Malaria, Fever","Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,28/2/22,5yrs,F,AS,,Malaria,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,28/2/22,26yrs,M,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,28/2/22,2yrs,M,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,1/3/2022,1yrs,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,1/3/2022,26yrs,F,AA,,Malaria,"Camosunate Tab, Paracetamol Tab, Amoxil"
+,1/3/2022,24yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,1/3/2022,10yrs,M,AS,,Malaria,"Lonart Tab, Amoxil, Paracetamol Tab"
+,1/3/2022,3mths,F,AA,,Malaria Sepsis,"Coarterm Syrup, Amoxil Syrup, Paracetamol Syrup"
+,2/3/2022,6yrs,M,AA,,Malaria,Syrup Lonart Amoxil Syrup Paracetamol Syrup
+,2/3/2022,7mths,M,AA,,Sepsis Malaria,"Coarterm Syrup, Amoxil Syrup, Paracetamol Syrup"
+,3/3/2022,2yrs,F,AS,,Malaria,"Syrup P-Alxin, Paracetamol Syrup"
+,4/3/2022,21yrs,M,AA,,Severe Malaria,"Lonart Tab, Amoxil Tab, Paracetamol Tab"
+,5/3/2022,30yrs,F,AS,,"Malaria, Fever","Artesunate Tab, Paracetamol Tab"
+,7/3/2022,41yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol Tab, Amoxil Tab"
+,7/3/2022,26yrs,F,AS,,Severe Malaria,"Coartem Tab, Amoxil Tab, Paracetamol Tab"
+,11/3/2022,37yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol Tab"
+,13/3/22,51yrs,M,AS,,Malaria Fever,"Camosunate Tab, Paracetamol Tab, Amoxil Tab"
+,16/3/22,47yrs,F,SS,,Malaria,"Lonart Tab, Paracetamol Tab"
+,19/3/22,42yrs,F,AS,,"R.V.S, Malaria","Camosunate Tab, Paracetamol"
+,21/3/22,39yrs,M,AS,,Malaria,"Artesunate, Paracetamol Amoxil"
+,23/3/22,2yrs,F,AS,,Malaria Sepsis,"Coarterm, Amoxil Syrup, Paracetamol Syrup"
+,23/3/22,5mths,F,AA,,Malaria Sepsis,"Coarterm, Amoxil Syrup, Paracetamol Syrup"
+,25/3/22,1yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol Tab"
+,26/3/22,19yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol Tab"
+,28/3/22,6mths,M,AS,,Malaria Sepsis,"Lonart Tab, Amoxil Tab, Paracetamol Tab"
+,28/3/22,21yrs,F,AA,,Fever Malaria,"Artesunate Tab, Amoxil Tab, Paracetamol Tab"
+,28/3/22,52yrs,M,AS,,Severe Malaria Fever,"P-Alaxin Tab, Paracetamol Tab"
+,29/3/22,60yrs,F,AA,,Malaria,"Artesunate Tab, Paracetamol"
+,29/3/22,37yrs,M,AS,,Malaria,"Lonart Tab, Paracetamol, Amoxil"
+,29/3/22,32yrs,F,AA,,Malaria,"Coartem Tab, Paracetamol Tab, Amoxil Tab"
+,29/3/22,24yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,30/3/22,9yrs,F,AS,,Malaria,"P-Alaxin, Paracetamol Syrup"
+,2/4/2022,2yrs,M,AS,,Malaria Sepsis,"Coartem Syrup, Amoxil Syrup"
+,2/4/2022,11yrs,F,AS,,Malaria,"P-Alaxin, Paracetamol Syrup"
+,2/4/2022,6mths,F,AS,,Sepsis Malaria,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,3/4/1933,2yrs,F,AA,,,"P-Alaxin, Amoxil Syrup, Paracetamol Syrup"
+,4/4/2022,28yrs,M,AS,,"Malaria, Fever","ACT, Paracetamol Tab, Amoxil Tab"
+,4/4/2022,17yrs,F,AA,,Malaria,"Coadunate tab, Paracetamol Tab"
+,6/4/2022,18yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol Tab"
+,8/4/2022,21yrs,F,AA,,Malaria,"Coarterm Tab, Paracetamol Tab"
+,10/4/2022,11yrs,F,AS,,Malaria,"P-Alaxin Tab, Amoxil Tab"
+,10/4/2022,3mths,F,AS,,Sepsis Malaria,"Coarterm Amoxil Syrup, Paracetamol Syrup"
+,12/4/2022,1yrs,M,AS,,Malaria fever,"Lonart Syrup, Paracetamol Syrup, Amoxil Syrup"
+,13/4/22,7yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol Tab"
+,15/4/22,4yrs,M,AS,,Malaria,"Camosunate, Paracetamol"
+,17/4/22,3yrs,M,AS,,Malaria,"Coartem, Paracetamol Syrup, Amoxil Syrup"
+,18/4/22,31yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol Tab"
+,19/4/22,8yrs,F,AA,,Malaria,"P-Alaxin Tab, Amoxil Tab"
+,21/4/22,62yrs,M,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol, Amoxil"
+,22/4/22,45yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol Tab, Amoxil"
+,24/4/22,29yrs,F,AS,,Malaria,"Camosonate Cap, Amoxil, Paracetamol"
+,24/4/22,52yrs,F,AA,,Malaria fever,"ACT, Paracetamol, Amoxil"
+,24/4/22,55yrs,M,AA,,Malaria fever,"Artesunate Tab, Paracetamol Tab, Amoxil Tab"
+,26/4/22,26yrs,F,AA,,Malaria fever,"Lonart Tab, Paracetamol Tab, Amoxil Tab"
+,27/4/22,11yrs,M,AS,,Malaria fever,"Lonart Tab, Paracetamol Tab"
+,28/4/22,6mths,F,AA,,Malaria Sepsis,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,28/4/22,1yrs,M,AS,,Malaria,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,28/4/22,3yrs,M,AS,,Malaria Sepsis,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,29/4/22,8mths,M,AS,,Malaria,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,30/4/22,9yrs,F,AA,,Malaria,"Lonart Tab, Amoxil Tab, Paracetamol Tab"
+,30/4/22,21yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol, Amoxil Tab"
+,1/5/2022,30yrs,F,AA,,Malaria,"P-Alaxin Tab, Paracetamol Tab"
+,2/5/2022,23yrs,F,AA,,Malaria,"Artesunate, Paracetamol"
+,2/5/2022,31yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,3/5/2022,26yrs,M,AS,,Malaria,"P-Alaxin Tab, Paracetamol"
+,4/5/2022,42yrs,F,AA,,Malaria,"Coartem, Amoxil"
+,4/5/2022,9yrs,M,AS,,Malaria,"Lonart Tab, Amoxil Tab, Paracetamol Tab"
+,5/5/2022,11yrs,F,AA,,Malaria,"Artesunate, Amoxil"
+,7/5/2022,7yrs,F,AS,,Malaria,"ICT, Paracetamol"
+,8/5/2022,41yrs,M,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol Tab, Amoxil"
+,8/5/2022,25yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol Tab"
+,11/5/2022,21yrs,F,AA,,Severe Malaria Fever,"Camosonate Cap, Paracetamol Tab"
+,13/5/22,18yrs,M,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol Tab"
+,15/5/22,7yrs,F,AA,,Malaria,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,16/5/22,2yrs,M,AS,,Malaria Sepsis,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,17/5/22,7mths,F,AS,,Malaria Sepsis,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,17/5/22,1yrs,F,AS,,Malaria Sepsis,"Coartem, Amoxil Syrup, Paracetamol Syrup"
+,18/5/22,4yrs,F,SS,,Malaria,"P-Alaxin Syrup, Amoxil Tab"
+,20/5/22,21yrs,F,AS,,Malaria,"Artesunate Tab, Amoxil Tab, Paracetamol Tab"
+,21/5/22,32yrs,M,AS,,Malaria,"Coarterm, Paracetamol"
+,24/5/22,46yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol Tab"
+,26/5/22,55yrs,F,AS,,Malaria,"P-Alaxin Tab, Paracetamol Tab"
+,26/5/22,61yrs,F,SS,,Malaria,"Artesunate Tab, Paracetamol Tab"
+,27/5/22,25yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol Tab"
+,27/5/22,31yrs,M,AS,,Malaria,Camosunate Tab
+,28/5/22,21yrs,F,AS,,Malaria,"ACT, Paracetamol"
+,28/5/22,5mths,F,AA,,Malaria Sepsis Fever,"Coartem, Paracetamol Syrup, Amoxil Syrup"
+,29/5/22,2yrs,F,AA,,Malaria,Lonart Tab
+,30/5/22,1yrs,M,AA,,Malaria,"Coartem, Paracetamol Syrup, Amoxil"
+,30/5/22,39yrs,M,AS,,Severe Malaria Fever,Artesunate Tab
+,2/6/2022,41yrs,M,AA,,Severe Malaria Fever,P-Alaxin Tab
+,3/6/2022,11mths,F,AA,,"Malaria, Fever Sepsis","Coartem, Paracetamol Syrup"
+,3/6/2022,2yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,3/6/2022,14yrs,F,AS,,Malaria,"P-Alaxin, Paracetamol"
+,4/6/2022,11yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,5/6/2022,28yrs,F,AA,,Malaria,"Artesunate, Paracetamol"
+,7/6/2022,22yrs,M,AS,,Malaria,"ACT, Paracetamol"
+,7/6/2022,31yrs,M,AS,,Malaria,Camosunate Tab
+,9/6/2022,41yrs,F,AA,,Malaria,"P-Alaxin Tab, Paracetamol"
+,9/6/2022,21yrs,F,AA,,Malaria,"Artesunate Tab, Paracetamol"
+,11/6/2022,61yrs,F,AS,,Malaria,"Coartem, Paracetamol"
+,12/6/2022,25yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,13/6/22,11yrs,F,AS,,"Severe Malaria, Fever","IV Artesunate, Paracetamol"
+,16/6/22,21yrs,M,AS,,"Severe Malaria, Fever","Lonart Tab, Paracetamol, Amoxil"
+,18/6/22,32yrs,F,AA,,"Severe Malaria, Fever","Camosunate Cap, Paracetamol"
+,18/6/22,42yrs,F,AS,,"Severe Malaria, Fever","P-Alaxin Tab, Amoxil"
+,20/6/22,26yrs,F,AA,,"Severe Malaria, Fever","Artesunate, Amoxil"
+,21/6/22,19yrs,F,AS,,"Severe Malaria, Fever","Coartem, Paracetamol, Amoxil"
+,24/6/22,35yrs,F,AA,,"Severe Malaria, Fever","Lonart Tab, Paracetamol"
+,26/6/22,11yrs,F,AS,,"Severe Malaria, Fever","Amaterm, Paracetamol, Amoxil  "
+,27/6/22,7mths,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,27/6/22,13yrs,M,AS,,Malaria,"P-Alaxin Tab, Paracetamol"
+,28/6/22,2yrs,F,AS,, Malaria Fever,"P-Alaxin Syrup, Paracetamol"
+,28/6/22,4mths,M,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,30/6/22,15yrs,F,AA,,Malaria,"Artesunate, Paracetamol"
+,31/6/22,36yrs,M,SS,,Malaria,"Lonart Tab, Paracetamol, Amoxil"
+,31/6/22,51yrs,F,AA,,Malaria,"P-Alaxin Tab, Paracetamol"
+,1/7/2022,36yrs,M,AA,,Malaria,"Artesunate, Paracetamol"
+,2/7/2022,48yrs,F,AA,,Malaria,"Coartem, Amoxil, Paracetamol"
+,3/7/2022,26yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol"
+,4/722,11yrs,F,AS,,Malaria,Artesunate Tab
+,6/7/2022,3mths,M,AS,,"Malaria, Sepsis","Coartem Tab, Amoxil"
+,8/7/2022,6yrs,M,AS,,Malaria,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,8/7/2022,4yrs,F,AS,,Malaria,"Artesunate, Amoxil Syrup,"
+,8/7/2022,3mths,F,AA,,"Malaria, Sepsis","Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,8/7/2022,11yrs,M,AS,,"Malaria, Fever","Lonart Tab, Paracetamol"
+,9/7/2022,6yrs,F,AS,,"Malaria, Fever",Artesunate Tab
+,10/7/2022,45yrs,F,AA,,"Malaria, Fever","Camosonate Cap, Paracetamol"
+,11/7/2022,36yrs,M,AA,,"Malaria, Fever","P-Alaxin Tab, Paracetamol"
+,13/7/22,7yrs,F,AS,,"Malaria, Fever",Coartem Tab Amoxil
+,15/7/22,4yrs,F,AS,,"Malaria, Fever","Coartem Tab Amoxil Syrup, Paracetamol"
+,15/7/22,6yrs,F,AA,,"Malaria, Fever","Lonart Tab, Paracetamol"
+,16/7/22,26yrs,F,AS,,"Malaria, Fever","Artesunate Tab, Paracetamol"
+,17/7/22,41yrs,M,AS,,"Malaria, Fever","P-Alaxin Tab, Paracetamol"
+,17/7/22,26yrs,M,AA,,"Malaria, Fever","Artesunate Tab, Paracetamol"
+,18/7/22,17yrs,M,AA,,Malaria,"ACT, Paracetamol"
+,20/7/22,11yrs,F,AS,,Malaria,"P-Alaxin, Paracetamol"
+,21/7/22,6mths,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,23/7/22,9yrs,M,AS,,"Malaria, Fever","Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,24/7/22,29yrs,F,AS,,"Malaria, Fever","Artesunate Tab, Paracetamol"
+,25/7/22,41yrs,F,AS,,"Malaria, Fever","Camosonate Cap, Paracetamol"
+,26/7/22,29yrs,F,AA,,"Malaria, Fever","Artesunate Tab, Paracetamol"
+,27/7/22,37yrs,M,SS,,"Malaria, Fever","Coartem Tab, Amoxil Cap, Paracetamol Syrup"
+,27/7/22,9yrs,F,AA,,"Malaria, Fever","P-Alaxin, Paracetamol"
+,29/7/22,42yrs,M,AA,,"Malaria, Fever","Lonart Tab, Paracetamol"
+,30/7/22,18yrs,F,AA,,"Malaria, Fever","P-Alaxin, Paracetamol"
+,31/7/22,19yrs,F,AA,,"Malaria, Fever","Artesunate Tab, Paracetamol"
+,3/8/2022,21yrs,F,AS,,"Malaria, Fever","Lonart Tab, Paracetamol"
+,4/8/2022,32yrs,F,AA,,"Malaria, Fever","Coartem Tab, Paracetamol"
+,6/8/2022,55yrs,M,AS,,"Malaria, Fever","Artesunate Tab, Amoxil Paracetamol"
+,6/8/2022,41yrs,M,AA,,"Malaria, Fever","Lonart Tab, Amoxil"
+,8/8/2022,39yrs,F,AA,,"Malaria, Fever",Artesunate Tab
+,9/8/2022,7yrs,M,AS,,"Malaria, Fever","Coartem Tab, Amoxil"
+,10/8/2022,6yrs,F,AS,,"Malaria, Fever","Lonart Tab, Amoxil Paracetamol"
+,10/8/2022,11yrs,M,AS,,"Malaria, Fever","P-Alaxin Tab, Paracetamol"
+,10/8/2022,14yrs,F,AS,,"Malaria, Fever","ACT, Paracetamol"
+,12/8/2022,7mths,F,AS,,"Malaria, Sepsis","Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,14/8/22,29yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,14/8/22,14yrs,M,AS,,Severe Malaria Fever,Lonart Tab
+,15/8/22,6mths,F,AA,,"Malaria, Sepsis","Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,17/8/22,5yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,19/8/22,7yrs,F,AA,,Malaria,"Coartem Tab, Paracetamol"
+,19/8/22,26yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol"
+,19/8/22,21yrs,F,AS,,Malaria,"P-Alaxin, Amoxil, Paracetamol"
+,20/8/22,19yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,21/8/22,12yrs,F,AA,,Malaria,"Camosunate Cap, Paracetamol"
+,22/8/22,18yrs,F,AS,,Malaria,"P-Alaxin, Paracetamol Tab"
+,22/8/22,4mths,M,AA,,"Malaria, Sepsis","Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,26/8/22,11yrs,M,AS,,Malaria,"Lonart Tab, Paracetamol"
+,27/8/22,29yrs,M,AS,,Malaria,Artesunate Tab
+,28/8/22,60yrs,F,AA,,Malaria,"P-Alaxin Tab, Paracetamol"
+,30/8/22,3mths,M,AS,,"Malaria, Sepsis","Coarterm Tab, Amoxil Syrup, Paracetamol"
+,31/8/22,11mths,M,AA,,"Malaria, Sepsis","Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,1/9/2022,17yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,2/9/2022,29yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,6/9/2022,21yrs,F,AS,,Severe Malaria Fever,"P-Alaxin Tab, Amoxil"
+,8/9/2022,41yrs,M,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,8/9/2022,62yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,11/9/2022,66yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,13/9/22,28yrs,F,AS,,Severe Malaria Fever,"Coarterm Tab,"
+,14/9/22,31yrs,F,AS,,Severe Malaria Fever,"P-Alaxin Tab, Paracetamol"
+,16/9/22,14yrs,M,AA,,Severe Malaria Fever,"Artesunate Tab,"
+,17/9/22,7yrs,F,AS,,Severe Malaria Fever,"Paracetamol, ACT, Amoxil"
+,19/9/22,11yrs,F,AA,,Severe Malaria Fever,"Coarterm Tab, Amoxil"
+,20/9/22,26yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab,"
+,21/9/22,38yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,21/9/22,29yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,21/9/22,24yrs,M,AS,,Malaria Fever,"Lonart Tab, Amoxil"
+,22/9/22,11mths,M,AS,,Malaria Sepsis,"Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,23/9/22,13yrs,F,AS,,Malaria,"ACT, Paracetamol"
+,25/9/22,19yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol"
+,25/9/22,8mths,F,AA,,Malaria Sepsis,"Artesunate Tab, Paracetamol"
+,25/9/22,14yrs,F,AS,,Malaria,"Lonart Tab, Amoxil"
+,25/9/22,29yrs,M,AS,,Malaria,"Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,26/9/22,12yrs,F,AA,,Malaria,"Artesunate Tab, Paracetamol"
+,27/9/22,3yrs,F,AA,,Malaria,"ACT, Paracetamol"
+,27/9/22,1yrs,F,AS,,Malaria,"Coarterm Tab, Amoxil"
+,28/9/22,23yrs,F,AA,,Malaria,"Coarterm Tab, Amoxil"
+,28/9/22,33yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol"
+,30/9/22,19yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,30/9/22,30yrs,F,SS,,Malaria,"ACT, Paracetamol, Amoxil"
+,2/10/2022,65yrs,M,AA,,Severe Malaria Fever,"IV Artesunate Paracetamol, Amoxil"
+,3/10/2022,41yrs,F,AA,,"Lonart Tab, Paracetamol","Lonart Tab, Paracetamol"
+,4/10/2022,39yrs,F,AA,,"Lonart Tab, Paracetamol","ACT, Paracetamol, Amoxil"
+,6/10/2022,28yrs,F,AA,,"Lonart Tab, Paracetamol","Artesunate Tab, Paracetamol"
+,6/10/2022,18yrs,M,AS,,"Lonart Tab, Paracetamol","Lonart Tab, Paracetamol"
+,8/10/2022,2mths,F,AS,,"Malaria, Sepsis","Coarterm Tab, Paracetamol Syrup"
+,9/10/2022,4yrs,F,AA,,Malaria,P-Alaxin Syrup
+,11/10/2022,13yrs,M,AS,,Malaria,"Camosunate Cap, Paracetamol"
+,12/10/2022,3yrs,F,AA,,Malaria,"Coarterm Tab, Amoxil"
+,13/10/22,6yrs,F,AS,,Malaria,Lonart Syrup
+,15/10/22,8yrs,M,S,,Malaria,P-Alaxin Syrup
+,15/10/22,20yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol"
+,15/10/22,61yrs,F,AS,,Malaria,"ACT, Paracetamol, Amoxil"
+,16/10/22,9yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,16/10/22,14yrs,M,AS,,Malaria,Camosunate Cap
+,17/10/22,30yrs,F,AA,,Malaria,"ACT, Paracetamol, Amoxil"
+,18/10/22,11yrs,F,AA,,Malaria,Artesunate Tab
+,18/10/22,12yrs,F,AS,,Malaria,Lonart Tab
+,20/10/22,15yrs,F,AA,,Malaria,"P-Alaxin Tab, Paracetamol"
+,20/10/22,36yrs,F,AA,,Malaria,"Artesunate Tab, Paracetamol"
+,20/10/22,40yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,21/10/22,39yrs,F,AS,,Malaria,"ACT, Paracetamol, Amoxil"
+,23/10/22,16yrs,M,AS,,Malaria,"Amaterm, Amoxil"
+,25/10/22,46yrs,F,AA,,Malaria,"P-Alaxin Tab, Paracetamol"
+,26/10/22,51yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol"
+,26/10/22,13yrs,F,AA,,Malaria,"Camosunate Cap, Amoxil"
+,26/10/22,4yrs,F,AS,,Malaria,"Coarterm Tab, Amoxil"
+,28/10/22,11yrs,M,AS,,Malaria,"Lonart Tab, Amoxil, Paracetamol"
+,28/10/22,19yrs,F,AA,,Malaria,Artesunate Tab
+,29/10/22,27yrs,F,AS,,Malaria,Coarterm Tab
+,1/11/2022,15yrs,M,SS,,Malaria,"P-Alaxin Tab, Paracetamol"
+,3/11/2022,29yrs,M,AS,,Malaria,"Lonart Tab, Paracetamol"
+,3/11/2022,50yrs,M,AA,,Malaria,"ACT, Paracetamol, Amoxil"
+,4/11/2022,46yrs,M,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,5/11/2022,61yrs,F,AA,,Severe Malaria Fever,"Artesunate Tab, Amoxil"
+,7/11/2022,55yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,8/11/2022,19yrs,F,AA,,Severe Malaria Fever,"P-Alaxin Tab, Amoxil, Paracetamol"
+,10/11/2022,6mths,F,AA,,Malaria Sepsis,"Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,11/11/2022,4yrs,M,AS,,Malaria,"ACT, Paracetamol, Amoxil Syrup"
+,13/11/22,2yrs,F,AS,,Malaria,"Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,15/11/22,21yrs,F,AA,,Malaria,"ACT, Paracetamol, Amoxil"
+,18/11/22,18yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol"
+,20/11/22,3yrs,M,AS,,Malaria,Camosonate Cap
+,21/11/22,9yrs,F,AS,,Malaria,"P-Alaxin Tab, Paracetamol"
+,21/11/22,17yrs,F,AA,,Malaria,"Artesunate Tab, Paracetamol"
+,21/11/22,26yrs,M,AS,,Malaria,"Lonart Tab, Paracetamol"
+,22/11/22,31yrs,F,AS,,Malaria,"ACT, Paracetamol, Amoxil"
+,24/11/22,9yrs,F,AS,,Severe Malaria Fever,"IV Artesunate Tab, Paracetamol"
+,26/11/22,10yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Amoxil, Paracetamol"
+,26/11/22,7yrs,F,AS,,Severe Malaria Fever,"Coartem Tab, Amoxil"
+,26/11/22,30yrs,F,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,26/11/22,31yrs,M,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,27/11/22,61yrs,F,AS,,Severe Malaria Fever,"Combacteria, Amoxil, Paracetamol"
+,28/11/22,71yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol, Amoxil"
+,28/11/22,65yrs,F,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,29/11/22,11yrs,M,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol, Amoxil"
+,30/11/22,26yrs,F,AS,,Severe Malaria Fever,"Amaterm Tab, Paracetamol"
+,1/12/2022,31yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol"
+,2/12/2022,19yrs,M,AS,,Malaria,"Coarterm Tab, Amoxil"
+,2/12/2022,18yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol"
+,2/12/2022,14yrs,F,AS,,Malaria,"Lonart Tab, Amoxil"
+,3/12/2022,12yrs,F,AS,,Malaria,"P-Alaxin Tab, Paracetamol"
+,4/12/2022,26yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,4/12/2022,17yrs,F,AS,,Malaria,"Amoxilin, Paracetamol, ACT"
+,5/12/2022,19yrs,F,AS,,Malaria,"Camosonate Cap, Paracetamol"
+,5/12/2022,14yrs,F,AS,,Malaria,"Artesunate Tab, Amoxil, Paracetamol"
+,6/12/2022,61yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,7/12/2022,8yyrs,F,AA,, Malaria,"Lonart Tab, Paracetamol"
+,8/12/2022,69yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,9/12/2022,41yrs,M,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,9/12/2022,8yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,11/12/2022,11mths,F,AA,,Malaria Sepsis,"Coarterm, Amoxil Syrup, Paracetamol Syrup"
+,13/12/22,7yrs,F,AS,,Malaria,"Artesunate, Paracetamol"
+,15/12/22,4yrs,F,AA,,Malaria,Lonart Tab
+,16/12/22,2yrs,F,AA,,Malaria,"Coarterm, Amoxil"
+,18/12/22,1yrs,M,AS,,Malaria,"Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,20/12/22,29yrs,F,AS,,Malaria,"Artesunate tab, Paracetamol"
+,21/12/22,32yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,22/12/22,41yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,23/12/22,21yrs,F,AS,,Malaria in Pregnancy,Amaterm Soft Giel
+,24/12/22,41yrs,F,AS,,Malaria Fever,"Lonart Tab, Amoxil"
+,24/12/22,61yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,27/12/22,36yrs,M,AA,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,28/12/22,21yrs,F,AS,,Malaria Fever,"Camosonate Cap, Amoxil"
+,29/12/22,18yrs,F,AA,,Malaria Fever,"Lonart Tab, Amoxil, Paracetamol"
+,30/12/23,16yrs,M,AS,,Malaria Fever,"Artesunate Tab, Amoxil"
+,3/1/2023,12yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,4/1/2023,14yrs,F,AS,,Malaria Fever,"Coarterm Tab, Paracetamol, Amoxil"
+,6/1/2023,39yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,7/1/2023,6yrs,M,AS,,Malaria Fever,"Lonart Syrup, Paracetamol"
+,9/1/2023,4yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol, Amoxil"
+,11/1/2023,9yrs,F,AA,,Malaria Fever,"Coatrem Tab, Paracetamol"
+,12/1/2023,29yrs,M,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,13/1/23,15yrs,F,AS,,Malaria Fever,"Lonart Tab, Amoxil, Paracetamol"
+,16/1/23,5mths,F,AS,,Malaria Sepsis,"Coarterm Tab, Amoxil Syrup, Paracetamol Syrup"
+,17/1/23,7yrs,M,AA,,Malaria,"P-Alaxin, Paracetamol, Amoxil"
+,19/1/23,21yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Amoxil, Paracetamol"
+,21/1/23,19yrs,M,AS,,Severe Malaria Fever,"Lonart Tab, Amoxil, Paracetamol"
+,22/1/23,15yrs,F,AA,,Severe Malaria Fever,"Camosonate Cap, Amoxil"
+,25/1/23,41yrs,F,AS,,Malaria Fever,"Artesunate Tab, Amoxil, Paracetamol"
+,26/1/23,26yrs,F,AS,,Malaria in Pregnancy,"Amaterm, Amoxil, Paracetamol"
+,29/1/23,19yrs,M,AS,,Malaria,"Coartem Tab, Paracetamol"
+,30/1/23,11yrs,F,AS,,Malaria,"Combartirine, Paracetamol"
+,2/2/2023,3mths,F,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup"
+,3/2/2023,7yrs,F,AA,,Malaria,"P-Alaxin, Amoxil"
+,5/2/2023,15yrs,M,AS,,Malaria,"Artesunate Tab, Paracetamol"
+,7/2/2023,19yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,8/2/2023,30yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Amoxil, Paracetamol"
+,9/2/2023,21yrs,M,AA,,Severe Malaria Fever,"Coartem, Amoxil, Paracetamol"
+,10/2/2023,42yrs,F,SS,,Severe Malaria Fever,"Lonart Tab, Amoxil, Paracetamol"
+,13/2/23,61yrs,M,AS,,Severe Malaria Fever,"P-Alaxin, Amoxil Cap"
+,15/2/23,9mths,F,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,16/2/23,18yrs,M,AA,,Severe Malaria Fever,"IV Artesunate, Amoxil, Paracetamol"
+,18/2/23,12yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,`,32yrs,F,AA,,Severe Malaria Fever,"ACT, Paracetamol, Amoxil"
+,21/2/23,42yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol, Amoxil"
+,24/2/23,49yrs,M,AS,,Severe Malaria Fever,"ACT, Paracetamol, Amoxil"
+,26/2/23,51yrs,F,SS,,Severe Malaria Fever,"IV Artesunate, Amoxil, Paracetamol"
+,27/2/23,62yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,29/2/23,71yrs,M,AA,,"RVS, Malaria","Coartem Tab, Amoxil, Paracetamol"
+,30/2/23,41yrs,F,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,1/3/2023,2yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Syrup"
+,2/3/2023,3yrs,M,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup"
+,3/3/2023,4mths,F,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,5/3/2023,5yrs,M,AA,,Malaria Fever,"Artesunate Tab, Amoxil Cap"
+,7/3/2023,7yrs,F,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup,"
+,9/3/2023,26yrs,F,AS,,Malaria Fever,"P-Alaxin, Amoxil, Paracetamol"
+,11/3/2023,19yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,12/3/2023,15yrs,F,AS,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,14/3/23,29yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,15/3/23,30yrs,F,AA,,Malaria Fever,"Amaterm, Paracetamol"
+,16/3/23,42yrs,F,AS,,Malaria Fever,"Camosonate Cap, Amoxil"
+,18/3/23,61yrs,F,AS,,Malaria Fever,"Artesunate Tab, Amoxil"
+,20/3/23,55yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,23/3/23,8mths,M,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,25/3/23,3yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol Syrup"
+,27/3/23,12yrs,M,AS,,Malaria,"P-Alaxin, Paracetamol, Amoxil"
+,29/3/23,4yrs,F,AA,,Malaria,"Coartem tab, Paracetamol Syrup Amoxil Syrup"
+,30/3/23,14yrs,M,AA,,Malaria,"Camosonate Cap, Paracetamol"
+,4/4/2023,21yrs,F,AA,,Malaria in Pregnancy,"Amaterm, Paracetamol"
+,5/4/2023,32yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,6/4/2023,39yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,7/4/2023,11yrs,F,AA,,Malaria fever,"Camosonate Cap, Paracetamol"
+,9/4/2023,15yrs,F,AS,,Malaria fever,"P-Alaxin, Paracetamol"
+,11/4/2023,71yrs,F,AS,,"RUS, Malaria","Artesunate Tab, Paracetamol Amoxil"
+,13/4/23,31yrs,F,AA,,"RUS, Malaria","Lonart Tab, Paracetamol"
+,15/4/23,16yrs,M,AA,,"RUS, Malaria","Camosonate Cap, Paracetamol"
+,17/4/23,91yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Amoxil Paracetamol"
+,19/4/23,21yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,20/4/23,42yrs,M,AA,,Severe Malaria Fever,"Artesunate, Amoxil"
+,23/4/23,18yrs,M,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,25/4/23,26yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol, Amoxil"
+,27/4/23,17yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,28/4/23,25yrs,F,AA,,Severe Malaria Fever,"ACT, Paracetamol, Amoxicillin"
+,29/4/23,17yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,30/4/23,26yrs,F,AA,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,31/4/23,39yrs,M,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,2/5/2023,11mths,F,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,3/5/2023,8yrs,F,AS,,Malaria,"Lonart tab, Paracetamol"
+,4/4/2023,6mths,M,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,5/4/2023,7yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,6/4/2023,9yrs,F,AS,,Malaria Fever,"Coartem Tab, paracetamol"
+,8/4/2023,29yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,10/4/2023,35yrs,M,AA,,Malaria Fever,"ACT, Paracetamol"
+,11/4/2023,26yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,12/5/2023,48yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,18/5/23,39yrs,F,AA,,Malaria in Pregnancy,"Amaterm, Amoxil"
+,21/5/23,7mths,F,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,24/5/23,26yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,28/5/23,21days,M,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,30/5/23,11mths,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,1/6/2023,31yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,2/6/2023,14yrs,F,AA,,Severe Malaria Fever,"Amaterm, Paracetamol"
+,3/6/2023,7yrs,F,SS,,Severe Malaria Fever,"Lonart Tab, Amoxil"
+,5/6/2023,29yrs,M,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,7/6/2023,31yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol"
+,9/6/2023,6yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,11/6/2023,8yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Amoxil"
+,12/6/2023,4yrs,M,AS,,Severe Malaria Fever,"Coartem Tab, Paracetamol Amoxil"
+,14/6/23,2yrs,F,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,16/6/23,7yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Amoxil"
+,18/6/23,1yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,20/6/23,15yrs,F,AA,,Malaria Fever, P-Alaxin Paracetamol
+,21/6/23,18yrs,M,AA,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,24/6/23,12yrs,F,AS,,Malaria Fever,"Combatrine, Paracetamol"
+,26/6/23,4yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,27/6/23,18yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,29/6/23,31yrs,F,AA,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,30/6/23,42yrs,F,AA,,Malaria Fever,"ACT, Paracetamol"
+,31/6/23,61yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,2/7/2023,51yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,3/7/2023,9yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Amoxil"
+,5/7/2023,3yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Amoxil"
+,7/7/2023,6mths,M,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,9/7/2023,7yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,11/7/2023,20yrs,F,AA,,Malaria Fever,Camosonate Cap
+,13/7/23,41yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,14/7/23,11yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,16/7/23,41yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Paracetamol"
+,19/7/23,30yrs,F,AS,,Malaria in Pregnancy,"Amaterm, Paracetamol, Amoxil"
+,23/7/23,6yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,27/7/23,4yrs,M,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,28/7/23,2yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup"
+,29/7/23,1yrs,M,AA,,Malaria,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,1/8/2023,7mths,F,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,2/8/2023,26yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,3/8/2023,34yrs,M,AA,,Malaria Fever,"Camosonate Cap, Paracetamol Amoxil"
+,4/8/2023,71yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol Amoxil"
+,6/8/2023,62yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol Amoxil"
+,10/8/2023,21yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol Amoxil"
+,14/8/23,39yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,16/8/23,42yrs,F,AS,,Severe Malaria,"IV Artesunate Tab, Paracetamol Amoxil"
+,19/8/23,19yrs,F,AA,,Severe Malaria,"Camosonate Cap, Paracetamol"
+,21/8/23,18yrs,M,AS,,Severe Malaria,"P-Alaxin, Paracetamol"
+,22/8/23,6yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,24/8/23,9yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol l"
+,25/8/23,3yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol"
+,25/8/23,2yrs,M,AA,,Malaria,"P-Alaxin, Paracetamol"
+,26/8/23,18yrs,F,AA,,Severe Malaria,"IV Artesunate, Paracetamol, Amoxil"
+,26/8/23,29yrs,M,AA,,Severe Malaria,"Coartem Tab, Paracetamol"
+,27/8/23,61yrs,F,AS,,Severe Malaria,"Artesunate Tab, Paracetamol"
+,28/8/23,41yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol, Amoxil"
+,29/8/23,21yrs,F,AA,,Malaria Fever,Camosonate Cap
+,30/8/23,19yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,3/9/2023,3yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,4/9/2023,14yrs,F,AA,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,5/9/2023,26yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,6/9/2023,61yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,8/9/2023,36yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,9/9/2023,17yrs,F,AA,,Malaria Fever,"P-Alaxin, Paracetamol, Amoxil"
+,10/9/2023,19yrs,F,SS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,13/9/23,18yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,15/9/23,12yrs,F,AS,,Malaria,"Lumarturm, Paracetamol"
+,18/9/23,3yrs,F,AA,,Malaria,"Coartem Tab, Paracetamol, Amoxil Syrup"
+,20/9/23,6yrs,M,AS,,Malaria,"Coartem Tab, Paracetamol Amoxil"
+,23/9/23,8yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,25/9/23,2yrs,M,AS,,Malaria,"Coartem Tab, Paracetamol"
+,26/9/23,10yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol, Amoxil"
+,27/9/23,14yrs,M,AA,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,28/9/23,29yrs,F,AS,,Malaria Fever,"ACT, Paracetamol"
+,29/9/23,31yrs,F,AA,,Malaria in Pregnancy,"Amaterm, Paracetamol"
+,30/9/23,4mths,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,5/10/2023,29days,M,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,6/10/2023,11yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,7/10/2023,4yrs,F,AS,,Malaria,"P-Alaxin, Paracetamol"
+,9/10/2023,3mths,F,AA,,Malaria,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,11/10/2023,26yrs,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,13/10/23,41yrs,M,AS,,Severe Malaria Fever,IV Artesunate Paracetamol
+,16/10/23,26yrs,M,AA,,Severe Malaria Fever,"ACT, Paracetamol"
+,19/10/23,7yrs,M,AA,,Severe Malaria Fever,"Lumaturn, Paracetamol, Amoxil"
+,21/10/23,8mths,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,23/10/23,26yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Amoxil"
+,24/10/23,9yrs,F,AS,,Severe Malaria Fever,"Camosonate Cap, Paracetamol"
+,26/10/23,26yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,27/10/23,9yrs,M,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol, Amoxil"
+,29/10/23,11yrs,F,AA,,Severe Malaria Fever,"Camosonate Cap, Paracetamol"
+,30/10/23,26yrs,F,AA,,Severe Malaria Fever,"ACT, Paracetamol"
+,2/11/2023,39yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol Amoxil"
+,3/11/2023,41yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,5/11/2023,61yrs,F,AS,,Malaria Fever,"Camosonate Cap, Paracetamol, Amoxil"
+,7/11/2023,55yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,8/11/2023,48yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol Amoxil"
+,9/11/2023,39yrs,F,AS,,Malaria Fever,"ACT, Paracetamol"
+,10/11/2023,13yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,13/11/23,21yrs,F,AA,,Severe Malaria,"Lonart Tab, Paracetamol Amoxil"
+,16/11/23,42yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,18/11/23,63yrs,F,SS,,Malaria Fever,"ACT, Paracetamol"
+,20/11/23,11yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,22/11/23,4mths,M,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,25/11/23,6yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol, Amoxil"
+,28/11/23,4yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol"
+,30/11/23,3yrs,M,AA,,Malaria,"Artesunate Tab, Paracetamol"
+,31/11/23,1yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,31/11/23,18yrs,M,AA,,Severe Malaria Fever,"IV Artesunate Tab, Paracetamol, Amoxil"
+,1/12/2023,17yrs,F,AA,,Severe Malaria Fever,P-Alaxin
+,2/12/2023,19yrs,M,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,4/12/2023,26yrs,F,AS,,Malaria in Pregnancy,"Amaterm, Amoxil"
+,6/12/2023,41yrs,F,AS,,Malaria Fever,"Camosonate, Paracetamol"
+,8/12/2023,28yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,10/12/2023,41yrs,M,SS,,Malaria Fever,"ACT, Paracetamol"
+,12/12/2023,50yrs,F,AA,,Malaria Fever,P-Alaxin
+,13/12/23,51yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,15/12/23,73yrs,F,AA,,"RVS, Malaria","Coartem Tab, Paracetamol"
+,17/12/23,18yrs,M,AA,,Malaria Fever,"ACT, Paracetamol"
+,19/12/23,19yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,21/12/23,26yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol Amoxil"
+,22/12/23,12yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,23/12/23,3yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil"
+,24/12/23,7yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,26/12/23,4yrs,M,AS,,Malaria Fever,"Lonart Tab, Amoxil |Syrup"
+,27/12/23,2yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,28/12/23,8yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol Amoxil"
+,30/12/23,36yrs,M,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,2/1/2024,24yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,3/1/2024,1yrs,F,AA,,Malaria,"Coartem Tab, Paracetamol, Amoxil"
+,4/1/2024,18yrs,F,AA,,Malaria,"Coartem Tab, Paracetamol, Amoxil"
+,6/1/2024,4yrs,M,AS,,Malaria,"Lonart Tab, Paracetamol Amoxil"
+,7/1/2024,31yrs,M,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,9/1/2024,26yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,11/1/2024,4yrs,M,AS,,Malaria Fever,"P-alaxin, Paracetamol"
+,13/1/24,8mths,M,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol syrup, Amoxil Syrup"
+,15/1/24,21days,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,17/1/24,11yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,20/1/24,8yrs,M,AA,,Malaria Fever,Lonart Tab
+,21/1/24,3yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol Syrup"
+,22/1/24,2yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,23/1/24,4yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,25/1/24,15yrs,M,AS,,Malaria Fever,"ACT, Paracetamol"
+,25/1/24,17yrs,F,AA,,Malaria,P-Alaxin
+,25/1/24,8yrs,F,AA,,Malaria,Camosonate Cap
+,27/1/24,67yrs,F,AS,,Severe Malaria,"Artesunate Tab, Paracetamol"
+,29/1/24,41yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,30/1/24,51yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,1/2/2024,62yrs,M,AA,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,3/2/2024,55yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,5/2/2024,3yrs,F,AS,,Malaria Fever,"Lonart Tab, Amoxil Syrup"
+,7/2/2024,4yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,9/2/2024,9yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,12/2/2024,3yrs,M,AS,,Malaria Fever,"Coartem Tab, Paracetamol Syrup"
+,15/2/24,2mths,M,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup"
+,19/2/24,42yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,21/2/24,3yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,23/2/24,4yrs,F,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup"
+,24/2/24,8yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,25/2/24,9mths,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,27/2/24,26yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,28/2/24,31yrs,F,AA,,Malaria Fever,Camosonate Cap
+,29/2/24,8yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,30/2/24,4yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,3/3/2024,62yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,5/3/2024,26yrs,F,AA,,Severe Malaria Fever,IV Artesunate Paracetamol
+,8/3/2024,41yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,9/3/2024,21yrs,F,AA,,Severe Malaria Fever,Artesunate Tab
+,13/3/24,3yrs,F,SS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,16/3/24,6yrs,F,AA,,Malaria Fever,Syrup Artesunate
+,19/3/24,8yrs,M,AS,,Malaria Fever,Lonart Tab
+,21/3/24,19yrs,F,AS,,Malaria Fever,Camosonate Cap
+,23/3/24,26yrs,M,AS,,Malaria Fever,P-Alaxin
+,24/3/24,14yrs,M,AA,,Malaria Fever,Lonart Tab
+,25/3/24,7yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,25/3/24,31yrs,F,AS,,Severe Malaria Fever,"Artesunate, Paracetamol"
+,27/3/24,29yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,527/3/24,4yrs,M,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,27/3/24,2yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,29/3/24,9yrs,M,AS,,Malaria Fever,P-Alaxin
+,30/3/24,26yrs,M,AA,,Malaria Fever,Artesunate Tab
+,2/4/2024,49yrs,M,AS,,Severe Malaria Fever,"IV Artesunate Paracetamol, Amoxil"
+,3/4/2024,51yrs,F,AS,,Severe Malaria Fever,P-Alaxin
+,4/4/2024,62yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,6/4/2024,17yrs,F,AS,,Malaria Fever,"Conart Tab, Paracetamol"
+,6/4/2024,13yrs,F,AS,,Malaria Fever,Camosonate Cap
+,8/4/2024,18yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,8/4/2024,16yrs,M,AA,,Malaria Fever,Lonart Tab
+,8/4/2024,19yrs,M,AS,,Malaria Fever,Artesunate Tab
+,10/4/2024,29yrs,F,AS,,Severe Malaria Fever,IV Artesunate Paracetamol Amoxil
+,11/4/2024,8mths,M,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,12/4/2024,1yrs,M,AA,,Malaria,"Lonart Syrup, Amoxil"
+,14/4/24,26yrs,F,AS,,Malaria Fever,"Combacterine, Paracetamol Amoxil  "
+,15/4/24,14yrs,F,AA,,Malaria Fever,P-Alaxin
+,17/4/24,39yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,17/4/24,26yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,17/4/24,7yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,18/4/24,4yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,20/4/24,11mths,F,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,22/4/24,26rs,M,AA,,Malaria Fever,Camosonate Cap
+,24/4/24,7yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup,"
+,26/4/24,8yrs,F,AS,,Malaria Fever,P-Alaxin
+,28/4/24,11mths,F,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,30/4/24,7mths,F,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil"
+,1/5/2024,25yrs,F,AA,,Malaria Fever,"ACT, Paracetamol"
+,3/5/2024,7yrs,M,AS,,Malaria,Lonart Tab
+,6/5/2024,86yrs,M,AS,,Severe Malaria Fever,IV Artesunate Paracetamol Amoxil
+,9/5/2024,21yrs,F,AA,,Severe Malaria Fever,Camosonate Cap
+,11/5/2024,61yrs,F,AA,,Severe Malaria Fever,Artesunate Tab
+,13/5/24,55yrs,M,AA,,Severe Malaria Fever,Artesunate Tab
+,15/5/24,2yrs,F,AS,,Malaria,Syrup Artesunate
+,17/5/24,3yrs,F,AA,,Malaria,"Artesunate Syrup, Paracetamol Syrup"
+,18/5/24,8yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol Syrup, Amoxil"
+,19/5/24,7yrs,M,AA,,Malaria,P-Alaxin
+,21/5/24,2yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,22/5/24,1yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,24/5/24,29yrs,F,AA,,Severe Malaria Fever,IV Artesunate Paracetamol Amoxil
+,25/5/24,13yrs,M,AA,,Severe Malaria Fever,Artesunate Paracetamol l
+,28/5/24,19yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,29/5/24,11yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Amoxil"
+,30/5/24,13yrs,M,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,2/6/2024,19yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol"
+,4/6/2024,26yrs,M,AS,,Malaria Fever,"ACT, Paracetamol"
+,6/6/2024,7yrs,F,AA,,Malaria Fever,P-alaxin
+,7/6/2024,2yrs,F,AS,,Malaria Fever,Lumaturm
+,8/6/2024,4yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,11/6/2024,6yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,13/6/24,7yrs,M,AS,,Malaria Fever,Camosonate Cap
+,15/6/24,9yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,17/6/24,18yrs,M,AA,,Malaria Fever,Lonart Tab
+,19/6/24,4yrs,F,AA,,Malaria Fever,Combacterine Paracetamol
+,20/6/24,21yrs,M,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,21/6/24,1yrs,M,AA,,Malaria,"Lonart Tab, Amoxil"
+,22/6/24,26yrs,F,AA,,Malaria Fever,"ACT, Paracetamol"
+,22/6/24,17yrs,F,AA,,Malaria Fever,P-Alaxin Paracetamol
+,25/6/24,12yrs,M,AS,,Malaria Fever,Camosonate Cap
+,26/6/24,4yrs,F,AS,,Malaria,"Amaterm, Paracetamol"
+,27/6/24,13yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,27/6/24,26yrs,F,AS,,Malaria Fever,"ACT, Paracetamol"
+,28/6/24,51yrs,M,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,29/6/24,18yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,1/7/2024,21yrs,F,AS,,Malaria Fever,P-Alaxin Paracetamol
+,3/7/2024,19yrs,M,SS,,Malaria Fever,"ACT, Paracetamol"
+,5/7/2024,31yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,7/7/2024,62yrs,F,AS,,Severe Malaria Fever,"Combacterine, Paracetamol"
+,9/7/2024,41yrs,F,AA,,Severe Malaria Fever,Camosonate Cap
+,11/7/2024,91yrs,M,AS,,Severe Malaria Fever,"Coartem Tab, Paracetamol"
+,13/7/24,42yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,15/7/24,71yrs,M,AS,,"RVS, Malaria","Lumaturm, Paracetamol,"
+,17/7/24,62yrs,F,AS,,Malaria Fever,"ACT, Paracetamol"
+,20/7/24,13yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,22/7/24,18yrs,F,AA,,Malaria Fever,Camosonate Cap
+,23/7/24,31yrs,M,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,24/7/24,42yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,26/7/24,19yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,28/7/24,36yrs,F,AA,,Severe Malaria,"Lumaturm, Paracetamol"
+,30/7/24,3yrs,M,AS,,Severe Malaria,"Coartem Tab, Paracetamol Syrup"
+,3/8/2024,2yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,4/8/2024,1yrs,F,AA,,Malaria Fever,"Lonart Syrup, Paracetamol Syrup"
+,5/8/2024,26yrs,M,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,7/8/2024,4yrs,F,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,9/8/2024,11mths,F,SS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,11/8/2024,18yrs,F,AS,,Malaria Sepsis,"P-Alaxin, Paracetamol"
+,12/8/2024,9yrs,M,AA,,Malaria Sepsis,"Lonart Tab, Paracetamol"
+,14/8/24,4yrs,F,AA,,Malaria Fever,Artesunate Tab
+,15/8/24,7mths,F,AS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup"
+,17/8/24,26yrs,F,AS,,Malaria,"Lonart Tab, Paracetamol"
+,19/8/24,19yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,19/8/24,26yrs,F,AA,,Malaria Fever,P-Alaxin
+,19/8/24,18yrs,M,AS,,Malaria Fever,Camosonate Cap
+,20/8/24,4yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Syrup"
+,21/8/24,2yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol Amoxil"
+,22/8/24,1yrs,F,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup"
+,23/8/24,26yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,24/8/24,39yrs,F,AS,,Malaria in Pregnancy,"Amaterm, Paracetamol"
+,26/8/24,41yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,27/8/24,51yrs,F,AS,,Malaria Fever,Camosonate Cap
+,28/8/24,7yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,30/8/24,8yrs,F,AS,,Malaria Fever,Artesunate Tab
+,31/8/24,13yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol"
+,1/9/2024,4yrs,F,AS,,Malaria,"Artesunate Tab, Paracetamol Syrup"
+,3/9/2024,2yrs,F,SS,,Malaria,"Coartem Tab, Amoxil Syrup"
+,5/9/2024,7mths,M,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup"
+,8/9/2024,28days,F,SS,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,10/9/2024,42yrs,F,AA,,Severe Malaria Fever,P-Alaxin
+,14/9/24,39yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,16/9/24,21yrs,M,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,18/9/24,28yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,20/9/24,4yrs,F,AS,,Severe Malaria Fever,"Coartem Tab, Paracetamol Syrup"
+,21/9/24,3yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol Syrup"
+,22/9/24,11yrs,M,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,23/9/24,18yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,24/9/24,21yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,26/9/24,19yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,28/9/24,29yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,30/9/24,31yrs,F,AA,,Malaria Fever,Camosonate Cap
+,2/10/2024,56yrs,M,AA,,Malaria Fever,P-Alaxin
+,4/10/2024,9mths,M`,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup"
+,6/10/2024,62yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol, Amoxil"
+,8/10/2024,4yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol Amoxil"
+,10/10/2024,3yrs,F,AA,,Malaria,"Coartem tab, Amoxil Syrup, Paracetamol Syrup"
+,11/10/2024,81yrs,M,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol, Amoxil"
+,13/10/24,49yrs,F,AS,,Severe Malaria Fever,"Amaterm, Paracetamol"
+,15/10/24,61yrs,F,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,17/10/24,21yrs,M,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol, Amoxil"
+,19/10/24,17yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,20/10/24,29yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol"
+,21/10/24,42yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,22/10/24,17yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol, Amoxil"
+,23/10/24,4yrs,M,AS,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,25/10/24,8yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol, Amoxil Syrup"
+,26/10/24,2yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol, Syrup, Amoxil"
+,28/10/24,3yrs,M,AS,,Malaria,"Coartem Tab, Paracetamol, Syrup, Amoxil"
+,29/10/24,1yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol, Syrup, Amoxil"
+,30/10/24,26yrs,F,AA,,Malaria,"Lonart Tab, Paracetamol, Amoxil"
+,31/10/24,48yrs,M,AS,,Malaria,"P-Alaxin, Paracetamol"
+,1/11/2024,71yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,3/11/2024,26yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,4/11/2024,7yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,5/11/2024,4yrs,F,AS,,Severe Malaria Fever,P-Alaxin
+,7/11/2024,2yrs,F,AS,,Severe Malaria Fever,"Coartem Tab, Paracetamol, Syrup, Amoxil Syrup"
+,8/11/2024,1yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol, Syrup,"
+,9/11/2024,21yrs,M,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,11/11/2024,8yrs,F,AA,,Malaria,"ACT, Paracetamol"
+,11/11/2024,7yrs,M,AS,,Malaria,"Camosonate, Paracetamol"
+,11/11/2024,26yrs,F,AS,,Malaria,"Lonart Tab, Amoxil"
+,13/11/24,29yrs,F,AA,,Malaria,"ACT, Paracetamol"
+,14/11/24,31yrs,F,AA,,Malaria,"Coartem Tab, Paracetamol"
+,15/11/24,42yrs,F,AA,,Malaria,"P-Alaxin, Paracetamol"
+,15/11/24,71yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol Amoxil"
+,16/11/24,4yrs,M,AA,,Malaria,"Coartem Tab, Paracetamol"
+,18/11/24,3yrs,F,AS,,Malaria,"Coartem Tab, Paracetamol"
+,19/11/24,81yrs,M,AA,,Severe Malaria Fever,IV Artesunate Paracetamol Amoxil
+,20/11/24,26yrs,M,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,21/11/24,4yrs,F,AA,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,22/11/24,2yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,23/11/24,7yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,24/11/24,18yrs,F,AS,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,25/11/24,42yrs,M,AA,,Malaria Fever,"ACT, Paracetamol"
+,26/11/24,62yrs,F,SS,,"RVS, Malaria","Coartem Tab, Paracetamol, Amoxil"
+,28/11/24,3yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,30/11/24,6yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,1/12/2024,2yrs,F,AS,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,3/12/2024,1yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol Amoxil Syrup"
+,4/12/2024,21yrs,F,AA,,Malaria Fever,"Laurent Tab, Paracetamol"
+,6/12/2024,39yrs,F,AS,,Malaria in Pregnancy,"Amaterm, Paracetamol"
+,7/12/2024,41yrs,M,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol, Amoxil"
+,8/12/2024,62yrs,F,AA,,Severe Malaria Fever,"ACT, Paracetamol"
+,9/12/2024,7yrs,M,AA,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,11/12/2024,8yrs,F,AA,,Severe Malaria Fever,"Combacterine, Paracetamol"
+,12/12/2024,41yrs,,AA,,Malaria Fever,"Laurent Tab, Paracetamol"
+,14/12/24,21yrs,F,AS,,Malaria Fever,"ACT, Paracetamol"
+,15/12/24,39yrs,M,AS,,Malaria Fever,"Artesunate, Paracetamol"
+,17/12/24,4yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,19/12/24,7yrs,F,AS,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,20/12/24,8yrs,F,AA,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,22/12/24,42yrs,M,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,24/12/24,9mths,M,AS,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,25/12/24,21days,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,26/12/24,44yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,28/12/24,2yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol Syrup"
+,29/12/24,25yrs,F,AS,,Malaria Fever,"Camosonate Cap, Paracetamol Syrup, Amoxil Syrup"
+,30/12/24,7yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,2/1/2025,21yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,3/1/2025,3yrs,F,AS,,Malaria Fever,"Artesunate, Paracetamol"
+,6/1/2025,4yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,7/1/2025,8yrs,F,AS,,Malaria Fever,"Coartem tab, Paracetamol"
+,9/1/2025,7yrs,M,AA,,Malaria Fever,Artesunate Tab
+,10/1/2025,26yrs,M,AS,,Malaria Fever,"P-Alaxin, Paracetamol"
+,12/1/2025,81yrs,F,AA,,Severe Malaria Fever,"IV Artesunate, Amoxil"
+,13/1/25,72yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,16/1/25,8mths,M,AA,,Malaria Sepsis,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,18/1/25,3yrs,M,AS,,Malaria,"Coartem Tab, Paracetamol"
+,19/1/25,4yrs,F,AA,,Malaria,"Camosonate Cap, Paracetamol"
+,20/1/25,21yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol, Amoxil"
+,21/1/25,8yrs,F,AA,,Severe Malaria Fever,"ACT, Paracetamol"
+,22/1/25,6yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,24/1/25,3yrs,M,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,25/1/25,2yrs,F,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,25/1/25,1yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Paracetamol Syrup, Amoxil Syrup"
+,25/1/25,42yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,28/1/25,18yrs,M,AS,,Severe Malaria Fever,"P-Alaxin, Paracetamol"
+,29/1/25,19yrs,M,AA,,Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,30/1/25,57yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,30/1/25,9yrs,F,AS,,Malaria Fever,"Artesunate Tab, Amoxil"
+,1/2/2025,31yrs,F,AA,,Malaria Fever,Lumaturm Paracetamol
+,2/2/2025,36yrs,F,AS,,Malaria Fever,"Amaterm, Paracetamol"
+,3/2/2025,8yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,5/2/2025,19yrs,M,AS,,Malaria Fever,"p-Alaxin, Paracetamol"
+,6/2/2025,4yrs,M,AA,,Malaria,"Lonart Tab, Paracetamol"
+,7/2/2025,36yrs,F,AS,,Malaria,"Artesunate tab, Paracetamol"
+,9/2/2025,19yrs,F,AA,,Malaria Fever,"Camosonate tab, Paracetamol"
+,10/2/2025,4yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol Amoxil"
+,11/2/2025,3yrs,F,AA,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,11/2/2025,11yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,12/2/2025,14yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol, Amoxil"
+,14/2/25,4 yrs.,M,AA,,Malaria Fever,Lonart Tab Pcm
+,15/2/25,7 yrs.,F,AS,,Malaria Fever,"Coartem Tab Amoxil Syrup, Pcm Syrup"
+,16/2/25,6 yrs.,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Syrup, Pcm Syrup"
+,16/2/25,8 yrs.,F,AA,,Malaria Fever,"Combatirine Tab, Amoxil Tab, Pcm"
+,16/2/25,27 yrs.,F,AA,,Malaria Fever,Lonart Tab Pcm
+,18/2/25,41 yrs.,F,AS,,Malaria Fever,"Coartem Tab, Pcm"
+,20/2/25,61 yrs.,M,SS,,Severe Malaria Fever,"Iv Artesunate, Amoxil Pcm"
+,20/2/25,72 yrs.,F,AA,,Severe Malaria Fever,"Artesunate, Tab Amoxil"
+,21/2/25,19 yrs.,M,AA,,Severe Malaria Fever,"Lonart Tab, Pcm"
+,23/2/25,4 yrs.,M,AA,,Severe Malaria Fever,"Coartem Tab, Pcm"
+,25/2/25,82 yrs.,F,SS,,Severe Malaria Fever,"Iv Artesunate, Amoxil Pcm Cap"
+,27/2/25,14 yrs.,F,AA,,Severe Malaria Fever,"Coartem Tab, Pcm Amoxil"
+,29/2/25,3 yrs.,M,AS,,Severe Malaria Fever,"Lonart Tab, Amoxil, Pcm"
+,2/3/2025,2 yrs.,M,AS,,Malaria fever,"Coartem Tab, Pcm Syrup, Amoxil Syrup"
+,3/3/2025,1 yrs.,M,AA,,Malaria fever,"Coartem Tab, Pcm"
+,5/3/2025,26 yrs.,M,AA,,Malaria fever,"Camosonate Cap, Pcm"
+,6/3/2025,17 yrs.,M,AS,,Malaria fever,"Artesunate, Tab Pcm"
+,6/3/2025,18 yrs.,F,AS,,Malaria fever,"Lonart Tab, Amoxil, Pcm"
+,6/3/2025,7 months,F,AA,,Malaria sepsis,"Coartem Tab, Amoxil Syrup, Pcm"
+,8/3/2025,62 yrs.,M,AA,,Malaria fever,"Camosonate Cap, Pcm"
+,10/3/2025,31 yrs.,F,AS,,Malaria fever,Amatem Pcm
+,11/3/2025,41 yrs.,M,AS,,Malaria fever,"Artesunate, Tab Amoxil"
+,11/3/2025,8 yrs.,F,AA,,Malaria fever,"Coartem Tab, Amoxil Syrup"
+,13/3/25,19 yrs.,M,AA,,Malaria fever,Lonart Tab Pcm
+,14/3/25,3 yrs.,M,AS,,Severe Malaria Fever,"IV Artesunate, Pcm Amoxil"
+,14/3/25,4 yrs.,F,AS,,Severe Malaria Fever,"Coartem Tab, Amoxil Syrup, Pcm Syrup"
+,15/3/25,2 yrs.,F,AA,,Malaria in pregnancy,Lonart Tab Pcm Syrup
+,15/3/25,27 yrs.,F,AA,,Malaria fever,"Amatem, Pcm, Amoxil"
+,15/3/25,19 yrs.,F,AA,,Malaria fever,Lonart Tab Pcm
+,17/3/25,7 yrs.,F,AA,,Malaria fever,"Artesunate, Tab Pcm"
+,18/3/25,14 yrs.,M,AS,,Malaria fever,"P Alaxin, Pcm"
+,19/3/25,18 yrs.,F,AS,,Malaria fever,"Coartem Tab, Pcm Amoxil"
+,19/3/25,29 yrs.,F,AA,,Malaria fever,Lonart Tab Pcm
+,21/3/25,4 yrs.,M,AA,,Malaria fever,"Conart Tab, Pcm"
+,21/3/25,3 yrs.,M,AS,,Malaria,"Combatirine, Pcm"
+,21/3/25,2 yrs.,F,AS,,Malaria,"Coartem Tab, Pcm Syrup Amoxil Syrup"
+,21/3/25,1 yrs.,F,AA,,Malaria,"Coartem Tab, Pcm Syrup Amoxil Syrup"
+,22/3/25,27 yrs.,F,AS,,Malaria fever,Lonart Tab Pcm Amoxil
+,22/3/25,41 yrs.,M,AA,,Severe Malaria Fever,"IV Artesunate, Pcm Amoxil"
+,23/3/25,80 yrs.,F,AS,,Severe Malaria Fever,"Act, Pcm, Amoxil"
+,23/3/25,71 yrs.,M,AS,,Severe Malaria Fever,"Lonart Tab, Pcm"
+,23/3/25,28 yrs.,F,AA,,Malaria sepsis,"Coartem Tab, Pcm Syrup, Amoxil Syrup"
+,24/3/25,6 months,F,AS,,Malaria sepsis,"Camosunate Cap, Pcm"
+,24/3/25,11 yrs.,M,AS,,Malaria fever,"Lonart Tab, Pcm"
+,24/3/25,13 yrs.,F,AS,,Malaria fever,"Artesunate, Tab Pcm Amoxil"
+,24/3/25,18 yrs.,F,AA,,Malaria fever,"Coartem Tab, Pcm"
+,25/3/25,26 yrs.,F,AS,,Malaria fever,"P-Alaxin, Pcm"
+,25/3/25,19 yrs.,M,AS,,Malaria fever,"Act, Pcm, Amoxil"
+,25/3/25,29 yrs.,F,AA,,Malaria fever,"Camosunate Cap, Pcm"
+,25/3/25,41 yrs.,F,AS,,Severe Malaria Fever,"IV Artesunate, Pcm Amoxil"
+,26/3/25,42 yrs.,F,AA,,Severe Malaria Fever,"P-Alaxin, Pcm"
+,26/3/25,48 yrs.,F,AS,,Severe Malaria Fever,"Act, Pcm"
+,26/3/25,31 yrs.,M,AA,,Severe Malaria Fever,"Lonart Tab, Pcm Amoxil"
+,26/3/25,24 yrs.,M,AS,,Severe Malaria Fever,Camosunate Cap
+,17/3/25,19 yrs.,F,AS,,Malaria Fever,"Combatirine, Pcm"
+,28/3/25,3 yrs.,M,AA,,Malaria Fever,"Coartem Tab, Pcm"
+,28/3/25,4 yrs.,F,AA,,Malaria Fever,"Lonart Tab, Pcm Syrup Amoxil Syrup"
+,28/3/25,2 yrs.,M,AA,,Malaria,"Coartem Tab, Pcm Syrup, Amoxil Syrup"
+,28/3/25,3 yrs.,F,AA,,Malaria,"Coartem Tab, Pcm, Amoxil Syrup"
+,29/3/25,1 yrs.,M,AA,,Malaria sepsis,"Coartem Tab, Pcm, Amoxil Syrup"
+,30/3/25,21 yrs.,F,AS,,Malaria fever,"Act, Pcm"
+,30/3/25,8 yrs.,M,AA,,Malaria fever,"Lonart Tab, Amoxil Syrup"
+,2/4/2025,9 months,F,AS,,Malaria sepsis,"Coartem Tab, Pcm Syrup, Amoxil Syrup"
+,2/4/2025,14 yrs.,F,AS,,Malaria fever,"Camosunate Cap, Pcm"
+,2/4/2025,26 yrs.,F,AA,,Malaria fever,"Act, Pcm"
+,3/4/2025,19 yrs.,F,AA,,Malaria fever,"Lonart Tab, Pcm"
+,5/4/2025,11 yrs.,F,AS,,Malaria Fever,"Artesunate Tab, Pcm"
+,5/4/2025,8 yrs.,M,AA,,Malaria Fever,"Coartem Tab, Pcm"
+,5/4/2025,4 yrs.,F,AS,,Malaria Fever,"Coartem Tab, Amoxil"
+,5/4/2025,3 yrs.,F,AA,,Malaria Fever,"Coartem Tab, Amoxil"
+,6/4/2025,1 yrs.,M,AA,,Severe Malaria Fever,"Iv Artesunate, Amoxil Tab, Pcm Tab"
+,6/4/2025,2 yrs.,F,AS,,Severe Malaria Fever,"Lonart Tab, Pcm, Amoxil"
+,6/4/2025,36 yrs.,F,AA,,Severe Malaria Fever,"Artesunate Tab, Pcm"
+,7/4/2025,31 yrs.,F,AS,,Severe Malaria Fever,"Amatem, Amoxil"
+,8/4/2025,1 yrs.,M,AA,,Severe Malaria Fever,"Lonart Tab, Pcm"
+,8/4/2025,3 yrs.,M,AA,,Severe Malaria Fever,"Coartem, Pcm, Amoxil Syrup"
+,8/4/2025,2 yrs.,F,AA,,Severe Malaria Fever,"P-Alaxin, Amoxil"
+,9/4/2025,4 yrs.,F,AS,,Malaria Fever,"Coartem Tab, Pcm"
+,9/4/2025,7 yrs.,M,SS,,Malaria Fever,"P-Alaxin, Amoxil, Pcm"
+,9/4/2025,26 yrs.,M,AA,,Malaria Fever,"Artesunate Tab, Amoxil"
+,10/4/2025,27 yrs.,F,AA,,Malaria Fever,"Camosunate Cap, Pcm"
+,10/4/2025,42 yrs.,F,AA,,Malaria Fever,"Lonart Tab, Pcm, Amoxil"
+,10/4/2025,81 yrs.,M,AS,,Severe Malaria Fever,"IV Artesunate, Pcm"
+,10/4/2025,28 yrs.,F,AA,,Severe Malaria Fever,"Lonart Tab, Amoxicillin"
+,10/4/2025,36 yrs.,F,AS,,Severe Malaria Fever,"P-Alaxin, Pcm, Amoxil"
+,11/4/2025,41 yrs.,M,AA,,Severe Malaria Fever,"Artesunate Tab, Pcm, Amoxil"
+,12/4/2025,4 yrs.,F,AS,,Severe Malaria Fever,"Camosunate Cap, Pcm, Amoxil"
+,15/4/25,6 yrs.,F,AS,,Severe Malaria Fever,"Coartem Tab, Pcm"
+,15/4/25,3 yrs.,M,AA,,Malaria Fever,"Lonart Tab, Pcm"
+,17/4/25,1 yrs.,F,AA,,Malaria Fever,"Amoxil Syrup, Pcm"
+,18/4/25,4 yrs.,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Syrup, Pcm"
+,20/4/25,8 yrs.,M,AS,,Malaria Fever,"Coartem Tab, Amoxil, Pcm"
+,21/4/25,23 yrs.,F,AS,,Malaria Fever,"P-Alaxin Tab, Pcm"
+,21/4/25,42 yrs.,F,AA,,Malaria Fever,"Lonart Tab, Pcm"
+,23/4/25,65 yrs.,M,AS,,Malaria Fever,"ACT, Pcm, Amoxil Tab"
+,23/4/25,70 yrs.,F,AA,,"RVS, Malaria","Amatem, Pcm, Amoxil"
+,23/4/25,3 yrs.,F,AS,,Malaria Fever,"Conart Syrup, Amoxil Syrup, Pcm, Syrup"
+,24/4/25,1 month,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Pcm Syrup"
+,24/4/25,2 yrs.,M,AS,,Malaria Fever,"Artesunate Tab, Pcm, Amoxil"
+,26/4/25,26 yrs.,F,AS,,Malaria Fever,"Lonart Tab, Pcm"
+,27/4/25,41 yrs.,F,AS,,Severe Malaria Fever,"IV Artesunate, Pcm"
+,27/4/25,36 yrs.,F,AA,,Severe Malaria Fever,"Lonart Tab, Pcm"
+,28/4/25,7 yrs.,F,AS,,Severe Malaria Fever,"Amoxil, Pcm, Coartem"
+,29/4/25,9 yrs.,M,AS,,Severe Malaria Fever,"Artesunate Tab, Pcm"
+,30/4/25,42 yrs.,F,AA,,Severe Malaria Fever,"Lonart Tab, Pcm"
+,2/5/2025,5 yrs.,M,AA,,Severe Malaria Fever,"Amatem, Pcm"
+,2/5/2025,19 yrs.,M,AS,,Malaria Fever,Lonart Tab
+,2/5/2025,26 yrs.,F,AA,,Malaria Fever,"Amatem, Pcm"
+,3/5/2025,4 yrs.,M,AS,,Malaria Fever,"Coartem Tab, Pcm"
+,3/5/2025,8 yrs.,F,AA,,Malaria Fever,"Lonart Tab, Pcm"
+,3/5/2025,3 yrs.,F,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup, Pcm Syrup"
+,4/5/2025,2 yrs.,F,AS,,Severe Malaria Fever,"IV Artesunate, Pcm Amoxil"
+,4/5/2025,42 yrs.,M,AA,,Severe Malaria Fever,"Lonart Tab, Amoxil Pcm"
+,4/5/2025,81 yrs.,F,AA,,Severe Malaria Fever,"Artesunate Tab, Pcm, Amoxil"
+,4/5/2025,4 yrs.,M,AA,,Severe Malaria Fever,"Coartem Tab, Amoxil Syrup, Pcm Syrup"
+,5/5/2025,6 yrs.,F,AA,,Malaria,Coartem Tab Pcm
+,5/5/2025,8 yrs.,M,AA,,Malaria Sepsis,"IV Artesunate, Pcm"
+,5/5/2025,42 yrs.,F,AS,,Malaria Fever,Lonart Tab Pcm
+,7/5/2025,3 yrs.,M,AS,,Malaria Fever,"P-Alaxin, Amoxil Syrup"
+,7/5/2025,9 yrs.,F,AS,,Malaria Fever,"Amatem, Pcm, Amoxil"
+,7/5/2025,7 months,M,AA,,Malaria Sepsis,"Coartem Tab Amoxil Syrup, Pcm"
+,7/5/2025,26 yrs.,F,AA,,Malaria Fever,"Artesunate Tab, Pcm"
+,8/5/2025,18 yrs.,M,AS,,Malaria Fever,Lonart Tab Amoxil
+,8/5/2025,32 yrs.,F,AS,,Malaria Fever,Coartem Tab Amoxil Pcm
+,8/5/2025,9 yrs.,F,AA,,Malaria Fever,Artesunate Pcm
+,8/5/2025,26 yrs.,F,AS,,Malaria Fever,"Combatirine, Pcm"
+,8/5/2025,18 yrs.,M,AA,,Malaria Fever,"Amatem, Pcm"
+,9/5/2025,14 yrs.,F,AS,,Malaria Fever,Lonart Tab Pcm
+,9/5/2025,32 yrs.,F,AA,,Severe Malaria Fever,"IV Artesunate, Pcm"
+,10/5/2025,7 yrs.,F,AA,,Severe Malaria Fever,"P-Alaxin, Pcm"
+,10/5/2025,3 yrs.,M,AS,,Severe Malaria Fever,"Coartem Tab, Amoxil Syrup, Pcm Syrup"
+,10/5/2025,9 yrs.,F,AA,,Severe Malaria Fever,"Lonart Tab, Pcm"
+,11/5/2025,28yrs,M,AA,,Malaria Fever,Artesunate Tab
+,11/5/2025,11mths,M,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol"
+,11/5/2025,29yrs,F,AA,,Malaria Fever,Lonart Tab
+,13/5/25,2yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Syrup"
+,13/5/25,1yrs,M,AA,,Malaria Fever,"Lonart Syrup, Amoxil Syrup"
+,15/5/25,26yrs,F,AS,,Malaria Fever,"P-Alaxin Tab, Paracetamol"
+,15/5/25,36yrs,M,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,15/5/25,27yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Amoxil"
+,15/5/25,81yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,15/5/25,2yrs,F,AA,,Severe Malaria Fever,"Coartem Tab, Amoxil Syrup, Paracetamol"
+,16/5/25,19yrs,M,AS,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,16/5/25,71yrs,F,AS,,Malaria Fever,Artesunate Tab
+,17/5/25,3yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,17/5/25,4yrs,M,AS,,Malaria Fever,Camosonate Cap
+,17/5/25,7yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,19/5/25,29yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,20/5/25,30yrs,M,AS,,Severe Malaria Fever,"IV Artesunate, IV Cypro"
+,20/5/25,31yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Amoxil"
+,22/5/25,42yrs,F,AA,,Severe Malaria Fever,"ACT, Paracetamol, Amoxil"
+,22/5/25,26yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,22/5/25,42yrs,M,AS,,Severe Malaria Fever,"P-Alaxin Tab, Paracetamol"
+,26/5/25,19yrs,F,AA,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,26/5/25,16yrs,M,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,26/5/25,4yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol Amoxicillin Tab"
+,27/5/25,19yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,28/5/25,4yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,30/5/25,18yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,2/6/2025,3yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,2/6/2025,5yrs,M,AA,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,2/6/2025,7yrs,F,AS,,Malaria Fever,"Coartem Tab, Paracetamol"
+,2/6/2025,26ys,M,AA,,Severe Malaria Fever,"IV Artesunate, Amoxil, Paracetamol"
+,3/6/2025,7yrs,M,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol, Amoxil"
+,3/6/2025, 18yrs,F,SS,,Severe Malaria Fever,"Camosonate Cap, Paracetamol"
+,3/6/2025,2yrs,F,AS,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,3/6/2025,4yrs,M,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,4/6/2025,31yrs,F,AA,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,4/6/2025,61yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,6/6/2025,21yrs,F,AA,,Severe Malaria Fever,"Lonart Tab, Paracetamol"
+,7/6/2025,4yrs,M,AS,,Severe Malaria Fever,"Coartem Tab, Paracetamol"
+,8/6/2025,7yrs,F,AS,,Severe Malaria Fever,"Coartem Tab, Amoxil, Paracetamol"
+,9/6/2025,31yrs,M,AS,,Severe Malaria Fever,"ACT, Paracetamol, Amoxil"
+,9/6/2025,18yrs,M,AA,,Malaria Fever,"P-Alaxin, Paracetamol"
+,9/6/2025,19yrs,F,AS,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,10/6/2025,16yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,11/6/2025,4yrs,M,AA,,Malaria Fever,"Coartem Tab, Amoxil, Paracetamol"
+,12/6/2025,8yrs,F,AA,,Malaria Fever,"P-Alaxin Tab, Paracetamol"
+,12/6/2025,2yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,12/6/2025,1yrs,M,AA,,Malaria Fever,"Coartem Tab, Amoxil, Paracetamol"
+,15/6/25,26yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,18/6/25,41yrs,M,AA,,Severe Malaria Fever,"ACT, Paracetamol, Amoxil"
+,19/6/25,36yrs,F,AS,,Severe Malaria Fever,"Lonart Tab, Amoxil Tab"
+,21/6/25,25yrs,F,AA,,Severe Malaria Fever,"P-Alaxin Tab, Paracetamol"
+,22/6/25,24yrs,F,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,22/6/25,48yrs,M,AA,,Severe Malaria Fever,"IV Artesunate, Paracetamol"
+,25/6/25,29yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,26/6/25,11yrs,M,AA,,Malaria Fever,"Coartem Tab, Amoxil"
+,27/6/25,7mths,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup"
+,29/6/25,26yrs,F,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Tab"
+,30/6/25,7mths,M,AA,,Malaria Sepsis,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,1/7/2025,2yrs,F,AA,,Malaria Fever,"Lonart Syrup, Paracetamol"
+,1/7/2025,7yrs,M,AA,,Malaria Fever,"P-Alaxin Syrup, Paracetamol"
+,1/7/2025,8yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,2/7/2025,27yrs,F,AA,,Malaria Fever,"Camosonate Cap, Paracetamol"
+,4/7/2025,14yrs,F,AA,,Malaria Fever,"Lonart Tab, Paracetamol"
+,4/7/2025,26yrs,M,AA,,Malaria Fever,"ACT, Paracetamol, Amoxil"
+,4/7/2025,48yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,5/7/2025,4yrs,M,AS,,Malaria Fever,"Coartem Tab, Amoxil Syrup, Paracetamol Syrup"
+,7/7/2025,8yrs,M,AA,,Malaria Fever,"Artesunate, Amoxil"
+,8/7/2025,42yrs,F,AS,,Severe Malaria Fever,"IV Artesunate, Paracetamol, Amoxil"
+,10/7/2025,3yrs,M,AA,,Severe Malaria Fever,"Lonart Syrup, Amoxil"
+,12/7/2025,4yrs,F,AA,,Severe Malaria Fever,"P-Alaxin, Amoxil, Paracetamol"
+,12/7/2025,36yrs,F,AS,,Severe Malaria Fever,"ACT, Paracetamol"
+,12/7/2025,38yrs,M,AS,,Severe Malaria Fever,"Artesunate Tab, Paracetamol"
+,12/7/2025,4yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil Syrup, Paracetamol"
+,13/7/25,26yrs,M,AS,,Malaria Fever,"P-Alaxin Tab, Paracetamol"
+,13/7/25,11yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,13/7/25,13yrs,M,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,13/7/25,4yrs,F,AA,,Malaria Fever,"Coartem Tab, Paracetamol"
+,14/7/25,15yrs,M,AS,,Malaria,"Camosonate Cap, Paracetamol"
+,15/7/25,8yrs,F,AA,,Malaria Fever,"P-Alaxin Tab, Amoxil"
+,15/7/25,11yrs,F,AS,,Malaria Fever,"Artesunate Tab, Paracetamol"
+,17/7/25,14yrs,F,AS,,Malaria Fever,"Lonart Tab, Paracetamol"
+,18/7/25,3yrs,F,AA,,Malaria Fever,"Coartem Tab, Amoxil, Paracetamol"
