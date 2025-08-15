@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results - Malaria Severity Predictor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #1a6fb0;
+            --primary-light: #e1f0fa;
+            --secondary: #4a9d9c;
+            --light: #f8f9fa;
+            --dark: #343a40;
+            --success: #28a745;
+            --warning: #ffc107;
+            --danger: #dc3545;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f5f9fc;
+            color: #444;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary), #103a61);
+            color: white;
+            padding: 2.5rem 0;
+            margin-bottom: 2.5rem;
+            border-radius: 0 0 20px 20px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .result-card {
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2.5rem;
+            overflow: hidden;
+            background: white;
+        }
+        
+        .severity-low {
+            background: linear-gradient(to right, #28a745, #4caf50);
+            color: white;
+        }
+        
+        .severity-moderate {
+            background: linear-gradient(to right, #ffc107, #ff9800);
+            color: #333;
+        }
+        
+        .severity-high {
+            background: linear-gradient(to right, #f44336, #e53935);
+            color: white;
+        }
+        
+        .probability-bar {
+            height: 30px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            overflow: hidden;
+            background: #e9ecef;
+            box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+        }
+        
+        .probability-fill {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 15px;
+            font-weight: 600;
+            transition: width 1.5s ease-out;
+        }
+        
+        .probability-label {
+            min-width: 130px;
+            font-weight: 600;
+            color: #555;
+        }
+        
+        .details-table th {
+            background-color: #f8f9fa;
+            font-weight: 600;
+            color: #555;
+        }
+        
+        .severity-explanation {
+            border-radius: 12px;
+            padding: 1.5rem;
+            background: #f8f9fa;
+            border-left: 4px solid var(--primary);
+        }
+        
+        .back-btn {
+            background: linear-gradient(135deg, var(--primary), #155a93);
+            border: none;
+            padding: 0.8rem 2rem;
+            font-weight: 600;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+        
+        .back-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(26, 111, 176, 0.3);
+        }
+        
+        footer {
+            background: linear-gradient(135deg, #2c3e50, #1a252f);
+            color: rgba(255, 255, 255, 0.8);
+            padding: 2.5rem 0;
+            margin-top: 3rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <h1 class="display-4 fw-bold text-center"><i class="fas fa-lungs-virus me-3"></i>Malaria Severity Prediction Result</h1>
+            <p class="lead text-center">AI-driven assessment of patient condition</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="result-card">
+                    <div class="card-header text-center py-4 {% if result.severity == 'Low' %}severity-low{% elif result.severity == 'Moderate' %}severity-moderate{% else %}severity-high{% endif %}">
+                        <h2 class="display-2 mb-0"><i class="fas fa-thermometer-full me-3"></i>Predicted Severity: {{ result.severity }}</h2>
+                    </div>
+                    <div class="card-body p-4">
+                        <h3 class="mb-4"><i class="fas fa-chart-pie me-2"></i>Probability Distribution</h3>
+                        
+                        <div class="mb-5">
+                            {% for severity, prob in result.probabilities.items() %}
+                            <div class="d-flex align-items-center mb-4">
+                                <div class="probability-label">{{ severity }}</div>
+                                <div class="flex-grow-1 ms-3">
+                                    <div class="probability-bar">
+                                        <div class="probability-fill bg-{% if severity == 'Low' %}success{% elif severity == 'Moderate' %}warning{% else %}danger{% endif %}" 
+                                             style="width: 0%" 
+                                             data-width="{{ prob * 100 }}">
+                                            {{ (prob * 100)|round(1) }}%
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+
+                        <h3 class="mb-4"><i class="fas fa-user-injured me-2"></i>Patient Details</h3>
+                        <div class="table-responsive mb-5">
+                            <table class="table details-table">
+                                <tbody>
+                                    <tr>
+                                        <th>Age</th>
+                                        <td>{{ result.form_data.Age }}</td>
+                                        <th>Gender</th>
+                                        <td>{{ result.form_data.Gender }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Genotype</th>
+                                        <td>{{ result.form_data.Genotype }}</td>
+                                        <th>Blood Group</th>
+                                        <td>{{ result.form_data['Blood Group'] }}</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Body Temperature</th>
+                                        <td>{{ result.form_data['Body Temp (°C)'] }} °C</td>
+                                        <th>Climate Temperature</th>
+                                        <td>{{ result.form_data['Climate Temp (°C)'] }} °C</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Location</th>
+                                        <td colspan="3">
+                                            <i class="fas fa-map-marker-alt me-2"></i>
+                                            ({{ result.form_data.Latitude }}, {{ result.form_data.Longitude }})<br>
+                                            {{ result.form_data.LGA }}
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Drugs Administered</th>
+                                        <td colspan="3">
+                                            <i class="fas fa-pills me-2"></i>
+                                            {{ result.form_data['Drugs Administered'] or 'None' }}
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Date</th>
+                                        <td><i class="fas fa-calendar me-2"></i>{{ result.form_data.Date }}</td>
+                                        <th>Season</th>
+                                        <td><i class="fas fa-cloud-sun me-2"></i>{{ result.form_data.Season }}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div class="severity-explanation mb-5">
+                            <h4><i class="fas fa-info-circle me-2"></i>About the Prediction</h4>
+                            <p class="mb-0">
+                                This AI-based prediction is generated by analyzing patterns in similar malaria cases.
+                                Severity classifications:
+                            </p>
+                            <ul class="mt-2">
+                                <li><strong>Low:</strong> Mild symptoms, low risk of complications</li>
+                                <li><strong>Moderate:</strong> Moderate symptoms, requires medical attention</li>
+                                <li><strong>High:</strong> Severe symptoms, urgent medical care needed</li>
+                            </ul>
+                        </div>
+
+                        <div class="text-center">
+                            <a href="/" class="btn back-btn text-white px-5 py-3">
+                                <i class="fas fa-arrow-left me-2"></i>New Prediction
+                            </a>
+                        </div>
+
+                        <div class="mt-4 text-muted text-end">
+                            <small><i class="fas fa-clock me-1"></i>Prediction generated at: {{ result.timestamp }}</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Malaria Severity Prediction System</h5>
+                    <p>Advanced AI for clinical decision support</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <p class="mb-0">© 2025 All Rights Reserved</p>
+                    <p>For medical professionals</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Animate the probability bars
+        document.querySelectorAll('.probability-fill').forEach(bar => {
+            const targetWidth = bar.getAttribute('data-width') + '%';
+            bar.style.width = targetWidth;
+        });
+    </script>
+</body>
+</html>

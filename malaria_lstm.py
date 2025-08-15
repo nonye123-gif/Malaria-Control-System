@@ -14,6 +14,7 @@ from tensorflow.keras.callbacks import EarlyStopping, ReduceLROnPlateau, ModelCh
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.utils import to_categorical
 from imblearn.over_sampling import SMOTE
+import joblib
 import os
 import warnings
 
@@ -549,5 +550,10 @@ if __name__ == "__main__":
     # Save the LSTM model
     lstm_model.save(os.path.join(MODEL_FOLDER, 'malaria_severity_lstm_attention_model.keras'))
     print(f"\nSaved LSTM model to '{MODEL_FOLDER}/malaria_severity_lstm_attention_model.keras'")
+    
+    # Save preprocessor and encoder
+    joblib.dump(preprocessor, os.path.join(MODEL_FOLDER, 'preprocessor.joblib'))
+    joblib.dump(severity_encoder, os.path.join(MODEL_FOLDER, 'severity_encoder.joblib'))
+    print("Saved preprocessor and encoder to model_folder")
     
     print("\nPipeline completed successfully!")
