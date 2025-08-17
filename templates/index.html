@@ -6,216 +6,255 @@
     <title>Malaria Severity Predictor</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary: #0a192f; /* Deep navy blue */
-            --primary-light: #172a46;
-            --accent: #64ffda; /* Teal accent */
-            --light: #f8f9fa;
-            --dark: #343a40;
+            --primary: #2c3e50; /* A slightly softer deep navy */
+            --primary-light: #34495e;
+            --accent: #3498db; /* A vibrant, but not jarring blue */
+            --light: #ecf0f1;
+            --dark: #2c3e50;
+            --secondary-bg: #eaf1f8;
+            --shadow-color: rgba(44, 62, 80, 0.1);
         }
-        
+
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f5f9fc;
-            color: #444;
-            background: linear-gradient(to bottom, #f0f7ff, #e6f2ff);
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--light);
+            color: #555;
+            line-height: 1.6;
         }
-        
+
         .header {
-            background: linear-gradient(135deg, var(--primary), #0a1a3a);
+            background: linear-gradient(135deg, var(--primary), var(--primary-light));
             color: white;
-            padding: 3.5rem 0;
-            margin-bottom: 2.5rem;
+            padding: 5rem 0;
+            margin-bottom: 3rem;
             text-align: center;
             position: relative;
-            overflow: hidden;
+            border-bottom-left-radius: 50px;
+            border-bottom-right-radius: 50px;
+            box-shadow: 0 4px 20px var(--shadow-color);
         }
-        
-        .header::before {
-            content: "";
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(100, 255, 218, 0.15) 0%, transparent 70%);
-            transform: rotate(30deg);
+
+        .header h1 {
+            font-weight: 700;
+            font-size: 2.8rem;
+            letter-spacing: 1px;
+            margin-bottom: 0.5rem;
         }
-        
-        .header-content {
-            position: relative;
-            z-index: 2;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 0 20px;
+
+        .header p.lead {
+            font-weight: 300;
+            opacity: 0.9;
         }
-        
+
         .title-icon {
             font-size: 3.5rem;
             margin-bottom: 1.5rem;
             color: var(--accent);
-            text-shadow: 0 0 15px rgba(100, 255, 218, 0.4);
+            text-shadow: 0 0 10px rgba(52, 152, 219, 0.5);
+            animation: pulse 2s infinite ease-in-out;
         }
-        
-        .card {
-            border-radius: 15px;
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
+        .card-elegant {
+            border-radius: 20px;
             border: none;
-            box-shadow: 0 8px 25px rgba(10, 25, 47, 0.1);
+            box-shadow: 0 15px 45px var(--shadow-color);
             background: white;
-            transition: transform 0.3s ease;
-            overflow: hidden;
-            margin-bottom: 2rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            margin-bottom: 2.5rem;
         }
-        
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 30px rgba(10, 25, 47, 0.15);
+
+        .card-elegant:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 60px rgba(44, 62, 80, 0.15);
         }
-        
-        .card-header {
-            background: linear-gradient(135deg, var(--primary), var(--primary-light));
+
+        .card-header-elegant {
+            background: linear-gradient(135deg, var(--accent), #3476db);
             color: white;
             font-weight: 600;
-            padding: 1.2rem 1.5rem;
-            border-radius: 15px 15px 0 0 !important;
-            font-size: 1.25rem;
-            border-bottom: 2px solid var(--accent);
+            padding: 1.5rem 2rem;
+            border-radius: 20px 20px 0 0 !important;
+            font-size: 1.35rem;
+            position: relative;
         }
-        
+
+        .card-header-elegant .icon {
+            font-size: 1.5rem;
+            margin-right: 1rem;
+            vertical-align: middle;
+        }
+
         .form-control, .form-select {
-            border-radius: 8px;
-            padding: 0.75rem 1rem;
-            border: 1px solid #d1e0f0;
+            border-radius: 10px;
+            padding: 0.9rem 1.2rem;
+            border: 1px solid #dcdde1;
             transition: all 0.3s;
-            background-color: #f9fcff;
+            background-color: var(--secondary-bg);
+            font-size: 1rem;
         }
-        
+
         .form-control:focus, .form-select:focus {
             border-color: var(--accent);
-            box-shadow: 0 0 0 0.25rem rgba(100, 255, 218, 0.15);
+            box-shadow: 0 0 0 0.2rem rgba(52, 152, 219, 0.25);
+            background-color: white;
         }
-        
-        .btn-primary {
-            background: linear-gradient(135deg, var(--primary), #0a1a3a);
+
+        .form-label {
+            font-weight: 500;
+            color: var(--dark);
+            margin-bottom: 0.6rem;
+            display: block;
+        }
+
+        .required:after {
+            content: " *";
+            color: #e74c3c;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .btn-primary-elegant {
+            background: linear-gradient(135deg, var(--accent), #2980b9);
             border: none;
-            padding: 1rem 2.5rem;
+            padding: 1.1rem 3rem;
             font-weight: 600;
-            border-radius: 8px;
-            transition: all 0.3s;
+            border-radius: 50px;
+            transition: all 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
             font-size: 1.1rem;
             letter-spacing: 0.5px;
-            border: 2px solid var(--accent);
-            box-shadow: 0 5px 15px rgba(10, 25, 47, 0.2);
+            box-shadow: 0 8px 25px rgba(52, 152, 219, 0.3);
+            text-transform: uppercase;
         }
-        
-        .btn-primary:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 8px 20px rgba(10, 25, 47, 0.3);
-            background: linear-gradient(135deg, #0a1a3a, var(--primary));
+
+        .btn-primary-elegant:hover {
+            transform: translateY(-5px) scale(1.02);
+            box-shadow: 0 12px 30px rgba(52, 152, 219, 0.4);
+            background: linear-gradient(135deg, #2980b9, var(--accent));
         }
-        
-        .feature-icon {
-            width: 60px;
-            height: 60px;
-            background: rgba(100, 255, 218, 0.1);
+
+        .feature-card {
             border-radius: 15px;
+            background: white;
+            box-shadow: 0 8px 25px rgba(44, 62, 80, 0.08);
+            transition: all 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+            padding: 2.5rem 1.5rem;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-5px) scale(1.02);
+            box-shadow: 0 12px 30px rgba(44, 62, 80, 0.12);
+        }
+
+        .feature-icon {
+            width: 70px;
+            height: 70px;
+            background: rgba(52, 152, 219, 0.1);
+            border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             margin: 0 auto 1.5rem;
-            font-size: 1.8rem;
+            font-size: 2.2rem;
             color: var(--accent);
-            border: 2px solid rgba(100, 255, 218, 0.2);
+            border: 2px solid rgba(52, 152, 219, 0.2);
         }
-        
-        .form-label {
-            font-weight: 500;
-            color: #4a6583;
-            margin-bottom: 0.5rem;
+
+        .feature-card h5 {
+            font-weight: 600;
+            color: var(--primary);
         }
-        
-        .required:after {
-            content: " *";
-            color: #ff6b6b;
+
+        .input-group-text {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 0 10px 10px 0;
+            padding: 0 1rem;
         }
         
         footer {
             background: var(--primary);
-            color: rgba(255, 255, 255, 0.85);
-            padding: 2.5rem 0;
-            margin-top: 3rem;
-            border-top: 2px solid var(--accent);
+            color: rgba(255, 255, 255, 0.8);
+            padding: 3rem 0;
+            margin-top: 4rem;
+            text-align: center;
         }
-        
-        .input-group-text {
-            background-color: #e6f2ff;
-            border: 1px solid #d1e0f0;
-            color: #4a6583;
+
+        footer h5 {
+            font-weight: 600;
+            color: white;
         }
-        
-        .feature-card {
-            border-top: 3px solid var(--accent);
-            transition: all 0.3s;
-        }
-        
-        .feature-card:hover {
-            border-top: 3px solid var(--primary);
-        }
-        
+
         @media (max-width: 768px) {
             .header {
-                padding: 2rem 0;
+                padding: 3rem 0;
             }
-            
+            .header h1 {
+                font-size: 2rem;
+            }
             .title-icon {
-                font-size: 2.5rem;
+                font-size: 3rem;
             }
-            
-            .card {
-                margin-bottom: 1.5rem;
+            .card-header-elegant {
+                font-size: 1.2rem;
+            }
+            .btn-primary-elegant {
+                padding: 1rem 2rem;
+                font-size: 1rem;
             }
         }
     </style>
 </head>
 <body>
     <div class="header">
-        <div class="header-content">
+        <div class="container">
             <div class="title-icon">
-                <i class="fas fa-lungs-virus"></i>
+                <i class="fas fa-stethoscope"></i>
             </div>
-            <h1 class="display-4 fw-bold">Malaria Severity Predictor</h1>
-            <p class="lead mt-3">AI-powered clinical assessment tool for malaria severity prediction</p>
+            <h1 class="display-4">Malaria Severity Predictor</h1>
+            <p class="lead mt-3">An AI-powered tool for rapid clinical assessment</p>
         </div>
     </div>
 
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="card">
-                    <div class="card-header">
-                        <i class="fas fa-user-injured me-2"></i>Patient Information
+            <div class="col-lg-9">
+                <div class="card card-elegant">
+                    <div class="card-header card-header-elegant">
+                        <i class="fas fa-notes-medical icon"></i> Patient & Clinical Details
                     </div>
-                    <div class="card-body p-4">
+                    <div class="card-body p-5">
                         <form action="/predict" method="POST">
-                            <div class="row">
+                            <div class="row g-4">
                                 <div class="col-md-6">
+                                    <h6 class="text-uppercase text-muted mb-3">Patient Demographics</h6>
                                     <div class="mb-4">
                                         <label class="form-label required">Age</label>
-                                        <input type="number" class="form-control form-control-lg" name="age" min="0" max="120" required>
+                                        <input type="number" class="form-control" name="age" min="0" max="120" placeholder="e.g., 35" required>
                                     </div>
                                     <div class="mb-4">
                                         <label class="form-label required">Gender</label>
-                                        <select class="form-select form-select-lg" name="gender" required>
-                                            <option value="">Select Gender</option>
+                                        <select class="form-select" name="gender" required>
+                                            <option value="" selected disabled>Select Gender</option>
                                             <option value="Male">Male</option>
                                             <option value="Female">Female</option>
                                         </select>
                                     </div>
                                     <div class="mb-4">
                                         <label class="form-label required">Genotype</label>
-                                        <select class="form-select form-select-lg" name="genotype" required>
-                                            <option value="">Select Genotype</option>
+                                        <select class="form-select" name="genotype" required>
+                                            <option value="" selected disabled>Select Genotype</option>
                                             <option value="AA">AA</option>
                                             <option value="AS">AS</option>
                                             <option value="SS">SS</option>
@@ -225,8 +264,8 @@
                                     </div>
                                     <div class="mb-4">
                                         <label class="form-label required">Blood Group</label>
-                                        <select class="form-select form-select-lg" name="blood_group" required>
-                                            <option value="">Select Blood Group</option>
+                                        <select class="form-select" name="blood_group" required>
+                                            <option value="" selected disabled>Select Blood Group</option>
                                             <option value="A+">A+</option>
                                             <option value="A-">A-</option>
                                             <option value="B+">B+</option>
@@ -237,104 +276,106 @@
                                             <option value="O-">O-</option>
                                         </select>
                                     </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <h6 class="text-uppercase text-muted mb-3">Clinical & Environmental Data</h6>
                                     <div class="mb-4">
-                                        <label class="form-label required">Body Temperature (°C)</label>
+                                        <label class="form-label required">Date of Visit</label>
+                                        <input type="date" class="form-control" name="date" required>
+                                    </div>
+                                    <div class="mb-4">
+                                        <label class="form-label required">Body Temperature</label>
                                         <div class="input-group">
-                                            <input type="number" class="form-control form-control-lg" name="temperature" step="0.1" min="35" max="45" required>
+                                            <input type="number" class="form-control" name="temperature" step="0.1" min="35" max="45" placeholder="e.g., 38.5" required>
                                             <span class="input-group-text">°C</span>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="mb-4">
-                                        <label class="form-label required">Date</label>
-                                        <input type="date" class="form-control form-control-lg" name="date" required>
-                                    </div>
-                                    <div class="mb-4">
-                                        <label class="form-label">Drugs Administered</label>
-                                        <input type="text" class="form-control form-control-lg" name="drugs" placeholder="Artemether, Lumefantrine, etc.">
-                                        <div class="form-text">Separate drug names with commas</div>
-                                    </div>
                                     <div class="mb-4">
                                         <label class="form-label required">Season</label>
-                                        <select class="form-select form-select-lg" name="season" required>
-                                            <option value="">Select Season</option>
+                                        <select class="form-select" name="season" required>
+                                            <option value="" selected disabled>Select Season</option>
                                             <option value="Dry">Dry</option>
                                             <option value="Rainy">Rainy</option>
                                         </select>
                                     </div>
                                     <div class="mb-4">
-                                        <label class="form-label required">LGA (Local Government Area)</label>
-                                        <input type="text" class="form-control form-control-lg" name="lga" required>
+                                        <label class="form-label">Drugs Administered</label>
+                                        <input type="text" class="form-control" name="drugs" placeholder="e.g., Artemether, Lumefantrine">
+                                        <div class="form-text text-muted">Separate drug names with commas</div>
                                     </div>
-                                    <div class="row">
-                                        <div class="col-md-6 mb-4">
+                                </div>
+                                <div class="col-12">
+                                    <h6 class="text-uppercase text-muted mb-3">Location & Climate</h6>
+                                    <div class="row g-4">
+                                        <div class="col-md-6">
+                                            <label class="form-label required">LGA (Local Government Area)</label>
+                                            <input type="text" class="form-control" name="lga" placeholder="e.g., Alimosho" required>
+                                        </div>
+                                        <div class="col-md-3">
                                             <label class="form-label required">Latitude</label>
-                                            <input type="number" class="form-control form-control-lg" name="latitude" step="0.000001" required>
+                                            <input type="number" class="form-control" name="latitude" step="0.000001" placeholder="e.g., 6.6018" required>
                                         </div>
-                                        <div class="col-md-6 mb-4">
+                                        <div class="col-md-3">
                                             <label class="form-label required">Longitude</label>
-                                            <input type="number" class="form-control form-control-lg" name="longitude" step="0.000001" required>
+                                            <input type="number" class="form-control" name="longitude" step="0.000001" placeholder="e.g., 3.3512" required>
                                         </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-md-6 mb-4">
-                                            <label class="form-label required">Rainfall (mm)</label>
+                                        <div class="col-md-6">
+                                            <label class="form-label required">Rainfall</label>
                                             <div class="input-group">
-                                                <input type="number" class="form-control form-control-lg" name="rainfall" min="0" required>
+                                                <input type="number" class="form-control" name="rainfall" min="0" placeholder="e.g., 120" required>
                                                 <span class="input-group-text">mm</span>
                                             </div>
                                         </div>
-                                        <div class="col-md-6 mb-4">
-                                            <label class="form-label required">Climate Temp (°C)</label>
+                                        <div class="col-md-6">
+                                            <label class="form-label required">Climate Temp</label>
                                             <div class="input-group">
-                                                <input type="number" class="form-control form-control-lg" name="climate_temp" step="0.1" min="15" max="45" required>
+                                                <input type="number" class="form-control" name="climate_temp" step="0.1" min="15" max="45" placeholder="e.g., 28.3" required>
                                                 <span class="input-group-text">°C</span>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="text-center mt-2">
-                                <button type="submit" class="btn btn-primary btn-lg">
-                                    <i class="fas fa-calculator me-2"></i>Predict Severity
+                            <div class="text-center mt-5">
+                                <button type="submit" class="btn btn-primary-elegant">
+                                    <i class="fas fa-flask-vial me-2"></i> Predict Severity
                                 </button>
                             </div>
                         </form>
                     </div>
                 </div>
-                
-                <div class="row">
-                    <div class="col-md-4 mb-4">
-                        <div class="card feature-card h-100">
-                            <div class="card-body text-center p-4">
+
+                <div class="row mt-5">
+                    <div class="col-md-4">
+                        <div class="card feature-card text-center h-100">
+                            <div class="card-body">
                                 <div class="feature-icon">
                                     <i class="fas fa-brain"></i>
                                 </div>
-                                <h5>Advanced AI Analysis</h5>
-                                <p class="mb-0">Deep learning models trained on thousands of clinical cases</p>
+                                <h5>Intelligent Predictions</h5>
+                                <p class="text-muted">Utilizing machine learning to analyze clinical and environmental data for accurate severity assessment.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 mb-4">
-                        <div class="card feature-card h-100">
-                            <div class="card-body text-center p-4">
+                    <div class="col-md-4">
+                        <div class="card feature-card text-center h-100">
+                            <div class="card-body">
                                 <div class="feature-icon">
-                                    <i class="fas fa-shield-alt"></i>
+                                    <i class="fas fa-chart-line"></i>
                                 </div>
-                                <h5>Clinical Accuracy</h5>
-                                <p class="mb-0">Validated against medical standards for reliable predictions</p>
+                                <h5>Data-Driven Insights</h5>
+                                <p class="text-muted">Provides actionable insights that support faster, more informed medical decisions.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 mb-4">
-                        <div class="card feature-card h-100">
-                            <div class="card-body text-center p-4">
+                    <div class="col-md-4">
+                        <div class="card feature-card text-center h-100">
+                            <div class="card-body">
                                 <div class="feature-icon">
-                                    <i class="fas fa-mobile-alt"></i>
+                                    <i class="fas fa-handshake-angle"></i>
                                 </div>
-                                <h5>Mobile Ready</h5>
-                                <p class="mb-0">Fully responsive design works on any device</p>
+                                <h5>Empowering Clinicians</h5>
+                                <p class="text-muted">A user-friendly interface designed to streamline patient intake and analysis for healthcare professionals.</p>
                             </div>
                         </div>
                     </div>
@@ -345,23 +386,18 @@
 
     <footer>
         <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h5>Malaria Severity Prediction System</h5>
-                    <p>Advanced AI for clinical decision support in malaria management</p>
-                </div>
-                <div class="col-md-6 text-md-end">
-                    <p class="mb-0">Developed with ❤️ for better healthcare outcomes</p>
-                    <p>© 2025 All Rights Reserved</p>
-                </div>
-            </div>
+            <h5>Malaria Severity Prediction System</h5>
+            <p>Developed with ❤️ for a healthier future</p>
+            <p class="mb-0 text-muted">© 2025 All Rights Reserved</p>
         </div>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        // Set default date to today
-        document.querySelector('input[name="date"]').valueAsDate = new Date();
+        document.addEventListener('DOMContentLoaded', () => {
+            const today = new Date().toISOString().split('T')[0];
+            document.querySelector('input[name="date"]').value = today;
+        });
     </script>
 </body>
 </html>
